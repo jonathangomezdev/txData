@@ -1,0 +1,21 @@
+[
+  {
+    "name": "MakemSalty",
+    "master": true,
+    "password_hash": "$2a$11$7Wk5y8nCVQU/yKdtdz46vOJdvWYaVpIs6CAqq8O6ccGjWe6FjSLMO",
+    "providers": {
+      "citizenfx": {
+        "id": "MakemSalty",
+        "identifier": "fivem:9148160",
+        "data": {
+          "sub": "be6f31c80f5ca61d3b97dfefd2ac36df",
+          "nameid": "https://forum.cfx.re/internal/user/9148160",
+          "name": "MakemSalty",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/makemsalty/256/3559530_2.png",
+          "profile": "https://forum.cfx.re/u/MakemSalty"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

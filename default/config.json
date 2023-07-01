@@ -1,0 +1,37 @@
+{
+  "global": {
+    "serverName": "Wild West Frontier",
+    "language": "en",
+    "menuEnabled": true,
+    "menuAlignRight": false,
+    "menuPageKey": "Tab"
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": [],
+    "resourceStartingTolerance": "90",
+    "disableChatWarnings": false
+  },
+  "playerDatabase": {
+    "onJoinCheckBan": true,
+    "onJoinCheckWhitelist": false,
+    "whitelistRejectionMessage": "Please join http://discord.gg/example and request to be whitelisted.",
+    "banRejectionMessage": "You can join http://discord.gg/example to appeal this ban."
+  },
+  "webServer": {
+    "disableNuiSourceCheck": false
+  },
+  "discordBot": {
+    "enabled": false,
+    "prefix": "!",
+    "statusMessage": "**IP:** `change-me:<port>`\n**Players:** <players>\n**Uptime:** <uptime>"
+  },
+  "fxRunner": {
+    "commandLine": "+set sv_enforceGameBuild 1491",
+    "onesync": "on",
+    "autostart": true,
+    "quiet": false,
+    "serverDataPath": "C:/Users/Administrator/Desktop/RedM_Main/txData/RexshackRedMBuild_6CC9FA.base/",
+    "cfgPath": "C:/Users/Administrator/Desktop/RedM_Main/txData/RexshackRedMBuild_6CC9FA.base/server.cfg"
+  }
+}

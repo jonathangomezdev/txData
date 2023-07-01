@@ -1,0 +1,73 @@
+## server main settings
+endpoint_add_tcp "0.0.0.0:30120"
+endpoint_add_udp "0.0.0.0:30120"
+sv_maxclients 48
+set gamename rdr3
+set sv_enforceGameBuild 1491
+
+# RSGCoreRedm locale config
+setr rsg_locale "en"
+
+## key license settings
+sv_licenseKey "cfxk_GTuEuPEz8EWOuzlzXNFF_3aXPcT"
+set steam_webApiKey "none"
+
+## database settings
+set mysql_connection_string "mysql://root@localhost/RexshackRedMBuild_6CC9FA?charset=utf8mb4"
+set mysql_slow_query_warning 200
+
+## server settings
+sv_hostname "Frontier Fury built with Rexshack RedM Build by Rexshack Gaming!"
+sets sv_projectName "[Rexshack RedM Build] Frontier Fury"
+sets sv_projectDesc "RSG RedM Server Build"
+sets locale "en-US" 
+load_server_icon myLogo.png
+sets banner_detail "link"
+sets banner_connecting  "link"
+sets tags "roleplay,bandits,cowboy,cowgirl"
+sv_endpointprivacy true
+
+## [txAdmin CFG validator]: onesync MUST only be set in the txAdmin settings page
+#set onesync on
+set onesync_population true
+set onesync_enableInfinity true
+set onesync_enableBeyond true
+
+# use target
+setr UseTarget false
+
+# default resources
+ensure mapmanager
+ensure spawnmanager
+ensure sessionmanager-rdr3
+ensure basic-gamemode
+ensure hardcap
+
+# resources
+ensure rsg-core
+ensure oxmysql
+ensure rsg-menubase
+ensure rsg-target
+ensure ip-chat
+ensure [standalone]
+ensure [framework]
+ensure [mapmods]
+
+## weathersync permissions
+exec resources/[standalone]/weathersync/permissions.cfg
+
+## Permissions ##
+add_ace group.admin command allow # allow all commands
+#add_principal identifier.{{principalMasterIdentifier}} rsgcore.god <- doesn't exist yet, change the generated one below to rsgcore.god
+add_principal identifier.fivem:9148160 group.admin #MakemSalty
+
+# Resources
+add_ace resource.rsg-core command allow # Allow rsg-core to execute commands
+
+# Gods
+add_ace rsgcore.god command allow # Allow all commands
+
+# Inheritance
+add_principal rsgcore.god group.admin # Allow gods access to the main admin group used to get all default permissions
+add_principal rsgcore.god rsgcore.admin # Allow gods access to admin commands
+add_principal rsgcore.admin rsgcore.mod # Allow admins access to mod commands

@@ -1,0 +1,265 @@
+
+================================================================
+======== txAdmin Starting - 5/22/2023, 8:38:16 PM               
+================================================================
+[20:39:48] [MakemSalty] created admins file
+[20:41:50] [MakemSalty] Changing global/fxserver settings via setup stepper.
+[20:42:19] [MakemSalty] Changing fxRunner settings.
+[20:42:37] [MakemSalty] RESTART SERVER
+[20:47:41] [MakemSalty] logged in via in-game ui
+[21:02:21] [MakemSalty] RESTART SERVER
+[21:03:30] [MakemSalty] RESTART SERVER
+[21:05:56] [MakemSalty] RESTART SERVER
+[21:07:42] [MakemSalty] RESTART SERVER
+[21:12:11] [MakemSalty] RESTART SERVER
+[21:14:03] [MakemSalty] logged in via in-game ui
+[21:26:54] [MakemSalty] RESTART SERVER
+[21:28:05] [MakemSalty] logged in via in-game ui
+[21:53:55] [MakemSalty] RESTART SERVER
+[21:58:17] [MakemSalty] logged in via in-game ui
+[13:53:48] [MakemSalty] STOP SERVER
+
+================================================================
+======== txAdmin Starting - 5/23/2023, 1:59:32 PM               
+================================================================
+[14:00:39] [MakemSalty] logged in from 127.0.0.1 via citizenfx
+[14:09:25] [MakemSalty] STOP SERVER
+[14:09:30] [MakemSalty] Resetting fxRunner settings.
+[14:13:40] [MakemSalty] Changing global settings via setup stepper and started Deployer.
+[14:14:03] [MakemSalty] Setting recipe.
+[14:15:24] [MakemSalty] Running recipe.
+[14:19:30] [MakemSalty] Completed and committed server deploy.
+[14:23:48] [MakemSalty] STOP SERVER
+[15:13:04] [MakemSalty] START SERVER
+[15:21:19] [MakemSalty] STOP SERVER
+[15:44:55] [MakemSalty] START SERVER
+[15:54:36] [MakemSalty] STOP SERVER
+[15:54:44] [MakemSalty] START SERVER
+[17:28:46] [MakemSalty] logged in via in-game ui
+[19:30:12] [MakemSalty] logged in via in-game ui
+[19:49:19] [MakemSalty] logged in via in-game ui
+[20:02:22] [MakemSalty] logged in via in-game ui
+[20:59:02] [MakemSalty] logged in via in-game ui
+[21:12:08] [MakemSalty] logged in via in-game ui
+[21:24:40] [MakemSalty] STOP SERVER
+[21:25:51] [MakemSalty] START SERVER
+[21:34:16] [MakemSalty] STOP SERVER
+[21:44:06] [MakemSalty] START SERVER
+[21:51:12] [MakemSalty] STOP SERVER
+[21:51:19] [MakemSalty] START SERVER
+[21:52:23] [MakemSalty] STOP SERVER
+[21:52:30] [MakemSalty] START SERVER
+[21:55:36] [MakemSalty] STOP SERVER
+[21:56:02] [MakemSalty] START SERVER
+[21:57:12] [MakemSalty] STOP SERVER
+[21:57:20] [MakemSalty] START SERVER
+[08:59:43] [MakemSalty] Sending announcement: PLEASE LEAVE THE SERVER , IT WILL RESTART IN 5 MINS 
+[09:03:56] [MakemSalty] STOP SERVER
+[09:05:09] [MakemSalty] START SERVER
+[09:06:54] [MakemSalty] STOP SERVER
+[09:07:04] [MakemSalty] START SERVER
+[09:32:28] [MakemSalty] STOP SERVER
+[09:36:05] [MakemSalty] Changing fxRunner settings.
+[09:36:26] [MakemSalty] START SERVER
+[09:42:10] [MakemSalty] ensure "rsg-mdt"
+[09:42:59] [MakemSalty] ensure "rsg-core"
+[09:43:22] [MakemSalty] ensure "rsg-input"
+[09:43:57] [MakemSalty] stop "ox_lib"
+[09:44:13] [MakemSalty] ensure "pma-voice"
+[09:44:22] [MakemSalty] ensure "bcc-oil"
+[09:44:24] [MakemSalty] ensure "bm-wagons"
+[09:44:28] [MakemSalty] ensure "elk-quest"
+[09:44:33] [MakemSalty] ensure "rsg-dirtyworks"
+[09:44:39] [MakemSalty] ensure "rsg-robnpc"
+[09:44:44] [MakemSalty] ensure "rsg-bandits"
+[09:44:49] [MakemSalty] ensure "rsg-barbers"
+[09:44:56] [MakemSalty] ensure "rsg-bathing"
+[09:45:03] [MakemSalty] ensure "rsg-beekeeper"
+[09:45:34] [MakemSalty] STOP SERVER
+[09:45:41] [MakemSalty] START SERVER
+[09:46:49] [MakemSalty] stop "ox_lib"
+[09:47:46] [MakemSalty] ensure "ox_lib"
+[09:48:18] [MakemSalty] ensure "sessionmanager"
+[10:46:20] [MakemSalty] STOP SERVER
+[10:46:36] [MakemSalty] START SERVER
+[10:56:00] [MakemSalty] STOP SERVER
+[10:56:05] [MakemSalty] START SERVER
+[13:50:38] [MakemSalty] logged in via in-game ui
+[14:49:36] [MakemSalty] logged in via in-game ui
+[14:52:37] [MakemSalty] logged in via in-game ui
+[14:57:57] [MakemSalty] logged in via in-game ui
+[15:01:00] [MakemSalty] logged in via in-game ui
+[17:57:26] [MakemSalty] logged in from 127.0.0.1 via citizenfx
+[17:57:43] [MakemSalty] RESTART SERVER
+[17:59:52] [MakemSalty] logged in via in-game ui
+[18:06:17] [MakemSalty] RESTART SERVER
+[18:07:32] [MakemSalty] logged in via in-game ui
+[18:10:44] [MakemSalty] RESTART SERVER
+[18:11:45] [MakemSalty] logged in via in-game ui
+[18:13:12] [MakemSalty] logged in via in-game ui
+[18:16:47] [MakemSalty] RESTART SERVER
+[18:17:45] [MakemSalty] logged in via in-game ui
+[18:32:25] [MakemSalty] logged in via in-game ui
+[20:55:26] [MakemSalty] logged in via in-game ui
+[00:11:21] [MakemSalty] logged in via in-game ui
+[00:22:14] [MakemSalty] Changing monitor settings.
+[00:22:39] [MakemSalty] RESTART SERVER
+[00:25:28] [MakemSalty] logged in via in-game ui
+[04:00:31] [SCHEDULER] Restarting server (scheduled restart at 04:00).
+[08:00:37] [SCHEDULER] Restarting server (scheduled restart at 08:00).
+[12:00:43] [SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:01:50] [MONITOR] Restarting server (server close detected).
+[12:02:57] [MONITOR] Restarting server (server close detected).
+[12:04:02] [MONITOR] Restarting server (server close detected).
+[12:05:08] [MONITOR] Restarting server (server close detected).
+[12:06:15] [MONITOR] Restarting server (server close detected).
+[12:07:21] [MONITOR] Restarting server (server close detected).
+[12:08:27] [MONITOR] Restarting server (server close detected).
+[12:09:33] [MONITOR] Restarting server (server close detected).
+[12:10:40] [MONITOR] Restarting server (server close detected).
+[12:11:47] [MONITOR] Restarting server (server close detected).
+[12:12:53] [MONITOR] Restarting server (server close detected).
+[12:14:00] [MONITOR] Restarting server (server close detected).
+[12:15:06] [MONITOR] Restarting server (server close detected).
+[12:16:13] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:17:18] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:18:24] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:19:31] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:20:38] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:21:43] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:22:49] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:23:56] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:25:03] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:26:08] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:27:14] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:28:21] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:29:28] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:30:35] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:31:40] [MONITOR] Restarting server (server close detected).
+[12:32:47] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:33:54] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:34:59] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:36:05] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:37:11] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:38:18] [MONITOR] Restarting server (server close detected).
+[12:39:25] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:40:32] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:41:37] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:42:43] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:43:50] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:44:57] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:46:02] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:47:08] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:48:15] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:49:22] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:50:27] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:51:33] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:52:40] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:53:47] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:54:52] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[12:55:58] [MONITOR] Restarting server (server failed to start within time limit - 30s after last resource started).
+[13:01:54] [MakemSalty] Changing monitor settings.
+[13:02:42] [MakemSalty] Changing global settings.
+[13:03:54] [MakemSalty] RESTART SERVER
+[13:06:05] [MakemSalty] logged in via in-game ui
+[13:17:08] [MakemSalty] RESTART SERVER
+[13:24:26] [MakemSalty] logged in via in-game ui
+[16:00:50] [SCHEDULER] Restarting server (scheduled restart at 16:00).
+[16:02:48] [MakemSalty] logged in via in-game ui
+[16:05:35] [MakemSalty] logged in via in-game ui
+[18:37:38] [MakemSalty] logged in via in-game ui
+[18:47:57] [MakemSalty] logged in from 127.0.0.1 via citizenfx
+[18:47:57] [MakemSalty] logged in via in-game ui
+[18:48:06] [MakemSalty] STOP SERVER
+[18:48:12] [MakemSalty] START SERVER
+[18:51:00] [MakemSalty] logged in via in-game ui
+[19:06:38] [MakemSalty] STOP SERVER
+[19:11:00] [MakemSalty] START SERVER
+[19:14:18] [MakemSalty] logged in via in-game ui
+[19:20:10] [MakemSalty] STOP SERVER
+[19:20:23] [MakemSalty] START SERVER
+[19:22:07] [MakemSalty] STOP SERVER
+[19:22:16] [MakemSalty] START SERVER
+[19:23:39] [MakemSalty] logged in via in-game ui
+[19:41:26] [MakemSalty] STOP SERVER
+[19:52:29] [MakemSalty] START SERVER
+[20:23:50] [MakemSalty] STOP SERVER
+[20:24:08] [MakemSalty] START SERVER
+[20:32:28] [MakemSalty] logged in via in-game ui
+[20:33:57] [MakemSalty] logged in via in-game ui
+[20:40:24] [MakemSalty] logged in via in-game ui
+[20:51:44] [MakemSalty] logged in via in-game ui
+[21:19:31] [MakemSalty] STOP SERVER
+[21:19:44] [MakemSalty] START SERVER
+[21:22:53] [MakemSalty] logged in via in-game ui
+[21:33:59] [MakemSalty] logged in via in-game ui
+[21:57:05] [MakemSalty] logged in via in-game ui
+[22:03:57] [MakemSalty] STOP SERVER
+[22:06:17] [MakemSalty] START SERVER
+[22:08:33] [MakemSalty] logged in via in-game ui
+[23:03:11] [MakemSalty] logged in via in-game ui
+[00:00:03] [SCHEDULER] Restarting server (scheduled restart at 00:00).
+[00:03:55] [MakemSalty] STOP SERVER
+[00:04:00] [MakemSalty] START SERVER
+[00:05:59] [MakemSalty] STOP SERVER
+[00:06:25] [MakemSalty] START SERVER
+[00:07:35] [MakemSalty] logged in via in-game ui
+[08:00:15] [SCHEDULER] Restarting server (scheduled restart at 08:00).
+[16:00:26] [SCHEDULER] Restarting server (scheduled restart at 16:00).
+[17:14:45] [MakemSalty] logged in from 127.0.0.1 via citizenfx
+[17:16:10] [MakemSalty] RESTART SERVER
+[17:18:59] [MakemSalty] RESTART SERVER
+[17:22:00] [MakemSalty] logged in via in-game ui
+[17:30:46] [MakemSalty] RESTART SERVER
+[17:32:51] [MakemSalty] RESTART SERVER
+[17:35:06] [MakemSalty] logged in via in-game ui
+[00:00:38] [SCHEDULER] Restarting server (scheduled restart at 00:00).
+[01:00:16] [MakemSalty] logged in via in-game ui
+[08:00:49] [SCHEDULER] Restarting server (scheduled restart at 08:00).
+[16:00:59] [SCHEDULER] Restarting server (scheduled restart at 16:00).
+[16:03:36] [MakemSalty] logged in via in-game ui
+[00:00:11] [SCHEDULER] Restarting server (scheduled restart at 00:00).
+[00:47:39] [MakemSalty] logged in via in-game ui
+[01:57:29] [MakemSalty] logged in via in-game ui
+[03:27:05] [MakemSalty] logged in from 127.0.0.1 via citizenfx
+[03:27:13] [MakemSalty] RESTART SERVER
+[03:30:07] [MakemSalty] STOP SERVER
+[03:30:31] [MakemSalty] START SERVER
+[03:32:07] [MakemSalty] logged in via in-game ui
+[04:26:13] [MakemSalty] logged in via in-game ui
+[04:30:22] [MakemSalty] STOP SERVER
+[04:30:45] [MakemSalty] START SERVER
+[04:31:13] [MakemSalty] RESTART SERVER
+[04:33:06] [MakemSalty] logged in via in-game ui
+[05:05:53] [MakemSalty] RESTART SERVER
+[05:07:03] [MakemSalty] logged in via in-game ui
+[05:54:42] [MakemSalty] logged in via in-game ui
+[06:17:50] [MakemSalty] RESTART SERVER
+[06:20:43] [MakemSalty] logged in via in-game ui
+[06:47:39] [MakemSalty] RESTART SERVER
+[06:49:44] [MakemSalty] logged in via in-game ui
+[06:55:48] [MakemSalty] RESTART SERVER
+[06:56:51] [MakemSalty] logged in via in-game ui
+[06:59:25] [MakemSalty] logged in via in-game ui
+[08:00:24] [SCHEDULER] Restarting server (scheduled restart at 08:00).
+[14:11:08] [MakemSalty] logged in via in-game ui
+[15:59:19] [MakemSalty] STOP SERVER
+[16:01:03] [MakemSalty] START SERVER
+[16:02:34] [MakemSalty] logged in via in-game ui
+[16:07:25] [MakemSalty] logged in via in-game ui
+[16:39:55] [MakemSalty] STOP SERVER
+[16:40:18] [MakemSalty] START SERVER
+[16:42:15] [MakemSalty] logged in via in-game ui
+[16:50:17] [MakemSalty] STOP SERVER
+[16:50:38] [MakemSalty] START SERVER
+[16:52:17] [MakemSalty] logged in via in-game ui
+[16:59:32] [MakemSalty] STOP SERVER
+[17:00:01] [MakemSalty] RESTART SERVER
+[17:00:24] [MakemSalty] RESTART SERVER
+[17:01:56] [MakemSalty] logged in via in-game ui
+[00:00:49] [SCHEDULER] Restarting server (scheduled restart at 00:00).
+[01:53:53] [MakemSalty] logged in via in-game ui
+[04:01:38] [MakemSalty] logged in via in-game ui
+[08:00:01] [SCHEDULER] Restarting server (scheduled restart at 08:00).
+[15:51:15] [MakemSalty] logged in via in-game ui
+[16:00:15] [SCHEDULER] Restarting server (scheduled restart at 16:00).

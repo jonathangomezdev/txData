@@ -1,0 +1,775 @@
+
+================================================================
+======== Log Rotated - 6/25/2023, 12:00:00 AM                   
+================================================================
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] is loading into the server
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] goin (Citizen ID: ITM99974) has succesfully loaded!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [32m[rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 0
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 25
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 50
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 75
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 85
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 110
+[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 120
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 130
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 155
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 180
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 205
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 230
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 255
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 280
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 305
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 330
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 355
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 380
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 405
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 430
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 455
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 480
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 505
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 530
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 555
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 580
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 605
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 630
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 655
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 680
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 705
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 730
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 755
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 780
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 805
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 830
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 855
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 880
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 905
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 930
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 955
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 980
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1005
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1030
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1055
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1080
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1105
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1130
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1155
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1180
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1205
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1230
+[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1255
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1280
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1305
+[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1330
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1355
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1380
+[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1405
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1430
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1455
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1480
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1505
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1530
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1555
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1580
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1605
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1630
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1655
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1680
+[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1705
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1730
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1755
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1780
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1805
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1830
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1855
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1880
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1905
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1930
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1955
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 1980
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2005
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2030
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2055
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2080
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2090
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2115
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2125
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2135
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2145
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2155
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2165
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2175
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2200
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2225
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2250
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2275
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2300
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2325
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2350
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2375
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2400
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2425
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2450
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2475
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2500
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2525
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2550
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2575
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2600
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2610
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2620
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2630
+[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2640
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2650
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2660
+[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2670
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2680
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2690
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2700
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2710
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2720
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2730
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] was placed 1/1 in queue[0m
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] is loading into the server
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] goin (Citizen ID: ITM99974) has succesfully loaded!
+[     script:rsg-core] [rsg-core:LOG][0m goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2740
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2765
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2775
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2800
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2825
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2850
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2875
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2900
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2925
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2950
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 2975
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3000
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3025
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3050
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3075
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3100
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3125
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3150
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3175
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3200
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3225
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3250
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3275
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3300
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3325
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3350
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3375
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3385
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3410
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3435
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3460
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3485
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3510
+[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3535
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3545
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3555
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3565
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3590
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3615
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3640
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3665
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3690
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3715
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3740
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3765
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3790
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3815
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3840
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3865
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3890
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3915
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3940
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3965
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 3990
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4015
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4040
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4065
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4090
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4115
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4140
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4165
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4190
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4215
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4240
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4265
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4290
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4315
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4340
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4365
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4390
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4415
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4440
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4465
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4490
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4515
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4540
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4565
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4590
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4615
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4640
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4665
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4690
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4715
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4740
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4765
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4790
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4815
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4840
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4865
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4890
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4915
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4940
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4965
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 4990
+[38;5;165m[script:rsg-horsetrai] peanut
+[script:rsg-horsetrai] QNH746
+[script:rsg-horsetrai] 5015
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] is loading into the server
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] goin (Citizen ID: ITM99974) has succesfully loaded!
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: [97mgoin[steam:1100001428dfcf6] is loading into the server
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] goin (Citizen ID: ITM99974) has succesfully loaded!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] is loading into the server
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] goin (Citizen ID: ITM99974) has succesfully loaded!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [32m[rsg-core:LOG] goin PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[         script:chat] goin: tpm
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[ script:connectqueue] QUEUE: dan2sim[steam:1100001198a410d] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: dan2sim[steam:1100001198a410d] is loading into the server
+[ script:connectqueue] QUEUE: [97mdan2sim[steam:1100001198a410d] was removed from the connecting queue because they timed out
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete

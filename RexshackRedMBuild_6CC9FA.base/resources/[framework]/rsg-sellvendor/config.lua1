@@ -1,0 +1,669 @@
+Config = {}
+
+Config.VendorShops = {
+    -- valentine
+    {
+        prompt = "val-sellshop",  -- must be unique
+        header = "Valentine Vendor", -- menu header
+        coords = vector3(-239.10, 770.69, 118.10 115.92), -- location of sell shop
+        blip = { -- blip settings
+            blipSprite = 'blip_shop_market_stall',
+            blipScale = 0.2,
+            blipName = "Valentine Vendor",
+        },
+		showblip = true,
+        shopdata = { -- shop data
+            {
+                title = "Bread",
+                description = "sell bread",
+                price = 0.03,
+                item = "bread",
+				image = "bread.png"
+            },
+            {
+                title = "Water",
+                description = "sell water",
+                price = 0.03,
+                item = "water",
+                image = "water.png"
+            },
+			{
+                title = "corn",
+                description = "sell corn",
+                price = 0.50,
+                item = "corn",
+                image = "corn.png"
+            },
+			{
+                title = "sugar",
+                description = "sell sugar",
+                price = 0.50,
+                item = "sugar",
+                image = "sugar.png"
+            },
+			{
+                title = "tobacco",
+                description = "sell tobacco",
+                price = 1.00,
+                item = "water",
+                image = "tobacco.png"
+            },
+			{
+                title = "carrot",
+                description = "sell carrot",
+                price = 0.50,
+                item = "carrot",
+                image = "carrot.png"
+            },
+			{
+                title = "broccoli",
+                description = "sell broccoli",
+                price = 0.50,
+                item = "tomato",
+                image = "tomato.png"
+            },
+			{
+                title = "broccoli",
+                description = "sell broccoli",
+                price = 0.50,
+                item = "broccoli",
+                image = "broccoli.png"
+            },
+			{
+                title = "potato",
+                description = "sell potato",
+                price = 0.50,
+                item = "potato",
+                image = "potato.png"
+            },
+			{
+                title = "moonshine",
+                description = "sell moonshiner",
+                price = 0.03,
+                item = "moonshine",
+                image = "moonshine.png"
+            },
+			{
+                title = "honeycomb",
+                description = "sell honeycomb",
+                price = 1.0,
+                item = "honeycomb",
+                image = "honeycomb.png"
+            },
+			{
+                title = "smallnugget",
+                description = "sell smallnugget",
+                price = 6.25,
+                item = "smallnugget",
+                image = "smallnugget.png"
+            },
+			{
+                title = "mediumnugget",
+                description = "sell mediumnugget",
+                price = 12.50,
+                item = "mediumnugget",
+                image = "mediumnugget.png"
+            },
+			{
+                title = "largenugget",
+                description = "sell largenugget",
+                price = 25.00,
+                item = "largenugget",
+                image = "largenugget"
+            },
+			{
+                title = "goldbar",
+                description = "sell goldbar",
+                price = 500.0,
+                item = "goldbar",
+                image = "goldbar.png"
+            },
+			{
+                title = "goldwatch",
+                description = "sell goldwatch",
+                price = 30.00,
+                item = "goldwatch",
+                image = "goldwatch.png"
+            },
+			{
+                title = "copper",
+                description = "sell copper",
+                price = 4.50,
+                item = "copper",
+                image = "copper.png"
+            },
+			{
+                title = "aluminum",
+                description = "sell aluminum",
+                price = 5.20,
+                item = "aluminum",
+                image = "aluminum.png"
+            },
+			{
+                title = "iron",
+                description = "sell iron",
+                price = 5.50,
+                item = "iron",
+                image = "iron.png"
+            },
+			{
+                title = "steel",
+                description = "sell steel",
+                price = 5.00,
+                item = "steel",
+                image = "steel.png"
+            },
+			{
+                title = "wood",
+                description = "sell wood",
+                price = 5.00,
+                item = "wood",
+                image = "wood.png"
+            },
+        },
+    },
+   -- Blackwater
+    {
+        prompt = "blackwater-sellshop",  -- must be unique
+        header = "Blackwater Vendor", -- menu header
+        coords = vector3(-867.12, -1287.27, 43.10 137.36 ), -- location of sell shop
+        blip = { -- blip settings
+            blipSprite = 'blip_shop_market_stall',
+            blipScale = 0.2,
+            blipName = "Blackwater Vendor",
+        },
+		showblip = true,
+        shopdata = { -- shop data
+            {
+                title = "Bread",
+                description = "sell bread",
+                price = 0.03,
+                item = "bread",
+            image = "bread.png"
+            },
+            {
+                title = "Water",
+                description = "sell water",
+                price = 0.03,
+                item = "water",
+                image = "water.png"
+            },
+		{
+                title = "corn",
+                description = "sell corn",
+                price = 0.50,
+                item = "corn",
+                image = "corn.png"
+            },
+		{
+                title = "sugar",
+                description = "sell sugar",
+                price = 0.50,
+                item = "sugar",
+                image = "sugar.png"
+            },
+		{
+                title = "tobacco",
+                description = "sell tobacco",
+                price = 1.00,
+                item = "water",
+                image = "tobacco.png"
+            },
+		{
+                title = "carrot",
+                description = "sell carrot",
+                price = 0.50,
+                item = "carrot",
+                image = "carrot.png"
+            },
+		{
+                title = "broccoli",
+                description = "sell broccoli",
+                price = 0.50,
+                item = "tomato",
+                image = "tomato.png"
+            },
+		{
+                title = "broccoli",
+                description = "sell broccoli",
+                price = 0.50,
+                item = "broccoli",
+                image = "broccoli.png"
+            },
+		{
+                title = "potato",
+                description = "sell potato",
+                price = 0.50,
+                item = "potato",
+                image = "potato.png"
+            },
+		{
+                title = "moonshine",
+                description = "sell moonshiner",
+                price = 0.03,
+                item = "moonshine",
+                image = "moonshine.png"
+            },
+		{
+                title = "honeycomb",
+                description = "sell honeycomb",
+                price = 1.0,
+                item = "honeycomb",
+                image = "honeycomb.png"
+            },
+{
+                title = "smallnugget",
+                description = "sell smallnugget",
+                price = 6.25,
+                item = "smallnugget",
+                image = "smallnugget.png"
+            },
+{
+                title = "mediumnugget",
+                description = "sell mediumnugget",
+                price = 12.50,
+                item = "mediumnugget",
+                image = "mediumnugget.png"
+            },
+{
+                title = "largenugget",
+                description = "sell largenugget",
+                price = 25.00,
+                item = "largenugget",
+                image = "largenugget"
+            },
+{
+                title = "goldbar",
+                description = "sell goldbar",
+                price = 500.0,
+                item = "goldbar",
+                image = "goldbar.png"
+            },
+{
+                title = "goldwatch",
+                description = "sell goldwatch",
+                price = 30.00,
+                item = "goldwatch",
+                image = "goldwatch.png"
+            },
+{
+                title = "copper",
+                description = "sell copper",
+                price = 4.50,
+                item = "copper",
+                image = "copper.png"
+            },
+{
+                title = "aluminum",
+                description = "sell aluminum",
+                price = 5.20,
+                item = "aluminum",
+                image = "aluminum.png"
+            },
+{
+                title = "iron",
+                description = "sell iron",
+                price = 5.50,
+                item = "iron",
+                image = "iron.png"
+            },
+{
+                title = "steel",
+                description = "sell steel",
+                price = 5.00,
+                item = "steel",
+                image = "steel.png"
+            },
+{
+                title = "wood",
+                description = "sell wood",
+                price = 5.00,
+                item = "wood",
+                image = "wood.png"
+            },
+        },
+    },
+  -- StDenis
+    {
+        prompt = "StDenis-sellshop",  -- must be unique
+        header = "StDenis Vendor", -- menu header
+        coords = vector3(2794.31, -1350.14, 46.71 -131.50 ), -- location of sell shop
+        blip = { -- blip settings
+            blipSprite = 'blip_shop_market_stall',
+            blipScale = 0.2,
+            blipName = "StDenis Vendor",
+        },
+		showblip = true,
+        shopdata = { -- shop data
+            {
+                title = "Bread",
+                description = "sell bread",
+                price = 0.03,
+                item = "bread",
+            image = "bread.png"
+            },
+            {
+                title = "Water",
+                description = "sell water",
+                price = 0.03,
+                item = "water",
+                image = "water.png"
+            },
+		{
+                title = "corn",
+                description = "sell corn",
+                price = 0.50,
+                item = "corn",
+                image = "corn.png"
+            },
+		{
+                title = "sugar",
+                description = "sell sugar",
+                price = 0.50,
+                item = "sugar",
+                image = "sugar.png"
+            },
+		{
+                title = "tobacco",
+                description = "sell tobacco",
+                price = 1.00,
+                item = "water",
+                image = "tobacco.png"
+            },
+		{
+                title = "carrot",
+                description = "sell carrot",
+                price = 0.50,
+                item = "carrot",
+                image = "carrot.png"
+            },
+		{
+                title = "broccoli",
+                description = "sell broccoli",
+                price = 0.50,
+                item = "tomato",
+                image = "tomato.png"
+            },
+		{
+                title = "broccoli",
+                description = "sell broccoli",
+                price = 0.50,
+                item = "broccoli",
+                image = "broccoli.png"
+            },
+		{
+                title = "potato",
+                description = "sell potato",
+                price = 0.50,
+                item = "potato",
+                image = "potato.png"
+            },
+		{
+                title = "moonshine",
+                description = "sell moonshiner",
+                price = 0.03,
+                item = "moonshine",
+                image = "moonshine.png"
+            },
+		{
+                title = "honeycomb",
+                description = "sell honeycomb",
+                price = 1.0,
+                item = "honeycomb",
+                image = "honeycomb.png"
+            },
+{
+                title = "smallnugget",
+                description = "sell smallnugget",
+                price = 6.25,
+                item = "smallnugget",
+                image = "smallnugget.png"
+            },
+{
+                title = "mediumnugget",
+                description = "sell mediumnugget",
+                price = 12.50,
+                item = "mediumnugget",
+                image = "mediumnugget.png"
+            },
+{
+                title = "largenugget",
+                description = "sell largenugget",
+                price = 25.00,
+                item = "largenugget",
+                image = "largenugget"
+            },
+{
+                title = "goldbar",
+                description = "sell goldbar",
+                price = 500.0,
+                item = "goldbar",
+                image = "goldbar.png"
+            },
+{
+                title = "goldwatch",
+                description = "sell goldwatch",
+                price = 30.00,
+                item = "goldwatch",
+                image = "goldwatch.png"
+            },
+{
+                title = "copper",
+                description = "sell copper",
+                price = 4.50,
+                item = "copper",
+                image = "copper.png"
+            },
+{
+                title = "aluminum",
+                description = "sell aluminum",
+                price = 5.20,
+                item = "aluminum",
+                image = "aluminum.png"
+            },
+{
+                title = "iron",
+                description = "sell iron",
+                price = 5.50,
+                item = "iron",
+                image = "iron.png"
+            },
+{
+                title = "steel",
+                description = "sell steel",
+                price = 5.00,
+                item = "steel",
+                image = "steel.png"
+            },
+{
+                title = "wood",
+                description = "sell wood",
+                price = 5.00,
+                item = "wood",
+                image = "wood.png"
+            },
+        },
+    },
+  -- Vanhorn
+    {
+        prompt = "Vanhorn-sellshop",  -- must be unique
+        header = "Vanhorn Vendor", -- menu header
+        coords = vector3(2987.28, 574.61, 44.61 30.00 ), -- location of sell shop
+        blip = { -- blip settings
+            blipSprite = 'blip_shop_market_stall',
+            blipScale = 0.2,
+            blipName = "Vanhorn Vendor",
+        },
+		showblip = true,
+        shopdata = { -- shop data
+            {
+                title = "Bread",
+                description = "sell bread",
+                price = 0.03,
+                item = "bread",
+            image = "bread.png"
+            },
+            {
+                title = "Water",
+                description = "sell water",
+                price = 0.03,
+                item = "water",
+                image = "water.png"
+            },
+		{
+                title = "corn",
+                description = "sell corn",
+                price = 0.50,
+                item = "corn",
+                image = "corn.png"
+            },
+		{
+                title = "sugar",
+                description = "sell sugar",
+                price = 0.50,
+                item = "sugar",
+                image = "sugar.png"
+            },
+		{
+                title = "tobacco",
+                description = "sell tobacco",
+                price = 1.00,
+                item = "water",
+                image = "tobacco.png"
+            },
+		{
+                title = "carrot",
+                description = "sell carrot",
+                price = 0.50,
+                item = "carrot",
+                image = "carrot.png"
+            },
+		{
+                title = "broccoli",
+                description = "sell broccoli",
+                price = 0.50,
+                item = "tomato",
+                image = "tomato.png"
+            },
+		{
+                title = "broccoli",
+                description = "sell broccoli",
+                price = 0.50,
+                item = "broccoli",
+                image = "broccoli.png"
+            },
+		{
+                title = "potato",
+                description = "sell potato",
+                price = 0.50,
+                item = "potato",
+                image = "potato.png"
+            },
+		{
+                title = "moonshine",
+                description = "sell moonshiner",
+                price = 0.03,
+                item = "moonshine",
+                image = "moonshine.png"
+            },
+		{
+                title = "honeycomb",
+                description = "sell honeycomb",
+                price = 1.0,
+                item = "honeycomb",
+                image = "honeycomb.png"
+            },
+{
+                title = "smallnugget",
+                description = "sell smallnugget",
+                price = 6.25,
+                item = "smallnugget",
+                image = "smallnugget.png"
+            },
+{
+                title = "mediumnugget",
+                description = "sell mediumnugget",
+                price = 12.50,
+                item = "mediumnugget",
+                image = "mediumnugget.png"
+            },
+{
+                title = "largenugget",
+                description = "sell largenugget",
+                price = 25.00,
+                item = "largenugget",
+                image = "largenugget"
+            },
+{
+                title = "goldbar",
+                description = "sell goldbar",
+                price = 500.0,
+                item = "goldbar",
+                image = "goldbar.png"
+            },
+{
+                title = "goldwatch",
+                description = "sell goldwatch",
+                price = 30.00,
+                item = "goldwatch",
+                image = "goldwatch.png"
+            },
+{
+                title = "copper",
+                description = "sell copper",
+                price = 4.50,
+                item = "copper",
+                image = "copper.png"
+            },
+{
+                title = "aluminum",
+                description = "sell aluminum",
+                price = 5.20,
+                item = "aluminum",
+                image = "aluminum.png"
+            },
+{
+                title = "iron",
+                description = "sell iron",
+                price = 5.50,
+                item = "iron",
+                image = "iron.png"
+            },
+{
+                title = "steel",
+                description = "sell steel",
+                price = 5.00,
+                item = "steel",
+                image = "steel.png"
+            },
+{
+                title = "wood",
+                description = "sell wood",
+                price = 5.00,
+                item = "wood",
+                image = "wood.png"
+            },
+        },
+    },
+    -- guarma trade point
+    {
+        prompt = "guarma-sellshop",  -- must be unique
+        header = "Guarma Vendor", -- menu header
+        coords = vector3(1284.16, -6871.74, 43.4), -- location of sell shop
+        blip = { -- blip settings
+            blipSprite = 'blip_shop_market_stall',
+            blipScale = 0.2,
+            blipName = "Guarma Vendor",
+        },
+        showblip = true,
+        shopdata = { -- shop data
+            {
+                title = "Box of Cigars",
+                description = "sell your cigar boxes",
+                price = 20,
+                item = "cigarbox",
+                image = "cigarbox.png"
+            },
+        },
+    },
+}

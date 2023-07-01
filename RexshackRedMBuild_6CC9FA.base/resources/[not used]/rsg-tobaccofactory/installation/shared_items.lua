@@ -1,0 +1,4 @@
+    -- tobacco factory
+    ['drytobacco'] = {['name'] = 'drytobacco', ['label'] = 'Dry Tobacco', ['weight'] = 100,  ['type'] = 'item', ['image'] = 'drytobacco.png', ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'factory product'},
+    ['cigar']      = {['name'] = 'cigar',      ['label'] = 'Cigar',       ['weight'] = 200,  ['type'] = 'item', ['image'] = 'cigar.png',      ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'factory product'},
+    ['cigarbox']   = {['name'] = 'cigarbox',   ['label'] = 'Cigar Box',   ['weight'] = 2000, ['type'] = 'item', ['image'] = 'cigarbox.png',   ['unique'] = false, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'factory product'},

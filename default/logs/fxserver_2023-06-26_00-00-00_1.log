@@ -1,0 +1,1332 @@
+
+================================================================
+======== Log Rotated - 6/26/2023, 12:00:00 AM                   
+================================================================
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] is loading into the server
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] goin (Citizen ID: ITM99974) has succesfully loaded!
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] is loading into the server
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] YT_MakemSalty (Citizen ID: SWM92973) has succesfully loaded!
+[     script:rsg-core] [0m[rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[     script:rsg-core] [rsg-core:LOG][0m goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[script:addz_qr_roule] addz_qr_roulette: remove player ITM99974 money $100703158481015
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[    script:rsg-stove] SCRIPT ERROR: @rsg-stove/server/main.lua:23: attempt to index a nil value (global 'xSound')
+[    script:rsg-stove] > handler (@rsg-stove/server/main.lua:23)
+[script:addz_qr_roule] addz_qr_roulette: remove player ITM99974 money $2700888889322791
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+> txaEvent "adminsUpdated" "[9]"
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[script:addz_qr_roule] addz_qr_roulette: remove player ITM99974 money $3786308122161583
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂MakemSalty＂,＂message＂:＂Server restarting (requested by MakemSalty).＂}"
+[      script:monitor] Server shutdown imminent. Kicking all players.
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [0m[rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+
+================================================================
+======== FXServer Starting - 6/26/2023, 1:40:47 AM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[ citizen-server-impl] Scanning resources.
+[    c-resources-core] Resource loading for ShadyBell failed:
+[    c-resources-core] Could not open resource metadata file - no such file.
+[38;5;163m[    c-resources-core] Resource loading for flatneck failed:
+[    c-resources-core] Could not open resource metadata file - no such file.
+[38;5;73m[ citizen-server-impl] Found 215 resources.
+[          svadhesive] Authenticating server license key...
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for sessionmanager-rdr3
+[ citizen-server-impl] Started resource sessionmanager-rdr3
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.0.1 starting...
+[ citizen-server-impl] Started resource monitor
+[38;5;161m[    c-scripting-core] Creating script environments for bcc-utils
+[38;5;73m[ citizen-server-impl] Started resource bcc-utils
+[    c-scripting-core] Creating script environments for bcc-minigames
+[ citizen-server-impl] Started resource bcc-minigames
+[ citizen-server-impl] Started resource vorp_inputs
+[    c-scripting-core] Creating script environments for vorp_utils
+[ citizen-server-impl] Started resource vorp_utils
+[38;5;73m[ citizen-server-impl] Started resource menuapi
+[    c-scripting-core] Creating script environments for mapmanager
+[ citizen-server-impl] Started resource mapmanager
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[   script:mapmanager] Started gametype Freeroam
+[ citizen-server-impl] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for rconlog
+[ citizen-server-impl] Started resource rconlog
+[    c-scripting-core] Creating script environments for oxmysql
+[38;5;73m[ citizen-server-impl] Started resource oxmysql
+[38;5;161m[    c-scripting-core] Creating script environments for rsg-core
+[ citizen-server-impl] Started resource rsg-core
+[ citizen-server-impl] Started resource rsg-menubase
+[    c-scripting-core] Creating script environments for asgard-adminmenu
+[ citizen-server-impl] Started resource asgard-adminmenu
+[    c-scripting-core] Creating script environments for karmasystem
+[ citizen-server-impl] Started resource karmasystem
+[    c-scripting-core] Creating script environments for rsg-adminmenu
+[ citizen-server-impl] Started resource rsg-adminmenu
+[    c-scripting-core] Creating script environments for rsg-appearance
+[ citizen-server-impl] Started resource rsg-appearance
+[    c-scripting-core] Creating script environments for rsg-bandits
+[ citizen-server-impl] Started resource rsg-bandits
+[    c-scripting-core] Creating script environments for rsg-banking
+[ citizen-server-impl] Started resource rsg-banking
+[    c-scripting-core] Creating script environments for rsg-npcs
+[ citizen-server-impl] Started resource rsg-npcs
+[38;5;161m[    c-scripting-core] Creating script environments for rsg-barbers
+[ citizen-server-impl] Started resource rsg-barbers
+[    c-scripting-core] Creating script environments for rsg-clothes
+[ citizen-server-impl] Started resource rsg-clothes
+[    c-scripting-core] Creating script environments for rsg-wardrobe
+[ citizen-server-impl] Started resource rsg-wardrobe
+[    c-scripting-core] Creating script environments for rsg-bathing
+[ citizen-server-impl] Started resource rsg-bathing
+[    c-scripting-core] Creating script environments for PolyZone
+[38;5;73m[ citizen-server-impl] Started resource PolyZone
+[ citizen-server-impl] Started resource rsg-target
+[    c-scripting-core] Creating script environments for rsg-beekeeper
+[ citizen-server-impl] Started resource rsg-beekeeper
+[ citizen-server-impl] Started resource rsg-input
+[ citizen-server-impl] Started resource rsg-menu
+[    c-scripting-core] Creating script environments for rsg-billing
+[ citizen-server-impl] Started resource rsg-billing
+[ citizen-server-impl] Started resource rsg-lockpick
+[    c-scripting-core] Creating script environments for rsg-blackwaterbankheist
+[ citizen-server-impl] Started resource rsg-blackwaterbankheist
+[ citizen-server-impl] Started resource menu_base
+[    c-scripting-core] Creating script environments for rsg-boats
+[ citizen-server-impl] Started resource rsg-boats
+[    c-scripting-core] Creating script environments for rsg-butcher
+[ citizen-server-impl] Started resource rsg-butcher
+[    c-scripting-core] Creating script environments for rsg-canoe
+[ citizen-server-impl] Started resource rsg-canoe
+[    c-scripting-core] [97mCreating script environments for rsg-contraband
+[ citizen-server-impl] Started resource rsg-contraband
+[    c-scripting-core] Creating script environments for rsg-cooking
+[ citizen-server-impl] Started resource rsg-cooking
+[    c-scripting-core] Creating script environments for rsg-crafting
+[ citizen-server-impl] Started resource rsg-crafting
+[    c-scripting-core] [97mCreating script environments for rsg-delivery
+[38;5;73m[ citizen-server-impl] Started resource rsg-delivery
+[    c-scripting-core] Creating script environments for rsg-doorlock
+[ citizen-server-impl] Started resource rsg-doorlock
+[    c-scripting-core] Creating script environments for rsg-drinker
+[ citizen-server-impl] Started resource rsg-drinker
+[    c-scripting-core] Creating script environments for rsg-dualwield
+[ citizen-server-impl] Started resource rsg-dualwield
+[    c-scripting-core] Creating script environments for rsg-essentials
+[ citizen-server-impl] Started resource rsg-essentials
+[    c-scripting-core] Creating script environments for rsg-farmer
+[ citizen-server-impl] Started resource rsg-farmer
+[    c-scripting-core] Creating script environments for rsg-fasttravel
+[ citizen-server-impl] Started resource rsg-fasttravel
+[    c-scripting-core] Creating script environments for rsg-fishing
+[ citizen-server-impl] Started resource rsg-fishing
+[    c-scripting-core] Creating script environments for rsg-fishvendor
+[ citizen-server-impl] Started resource rsg-fishvendor
+[    c-scripting-core] Creating script environments for rsg-gatherer
+[ citizen-server-impl] Started resource rsg-gatherer
+[    c-scripting-core] Creating script environments for rsg-goldpanning
+[ citizen-server-impl] Started resource rsg-goldpanning
+[    c-scripting-core] Creating script environments for rsg-goldsmelt
+[ citizen-server-impl] Started resource rsg-goldsmelt
+[    c-scripting-core] [97mCreating script environments for rsg-horseraces
+[ citizen-server-impl] Started resource rsg-horseraces
+[    c-scripting-core] [97mCreating script environments for rsg-horses
+[ citizen-server-impl] Started resource rsg-horses
+[    c-scripting-core] Creating script environments for rsg-horsetrainer
+[ citizen-server-impl] Started resource rsg-horsetrainer
+[    c-scripting-core] Creating script environments for rsg-hotel
+[ citizen-server-impl] Started resource rsg-hotel
+[    c-scripting-core] Creating script environments for rsg-management
+[ citizen-server-impl] Started resource rsg-management
+[    c-scripting-core] Creating script environments for rsg-houses
+[ citizen-server-impl] Started resource rsg-houses
+[    c-scripting-core] Creating script environments for rsg-telegram
+[ citizen-server-impl] Started resource rsg-telegram
+[    c-scripting-core] Creating script environments for rsg-hud
+[ citizen-server-impl] [0mStarted resource rsg-hud
+[    c-scripting-core] Creating script environments for rsg-indiantobacco
+[ citizen-server-impl] Started resource rsg-indiantobacco
+[    c-scripting-core] Creating script environments for rsg-inventory
+[ citizen-server-impl] Started resource rsg-inventory
+[    c-scripting-core] Creating script environments for rsg-jobwagon
+[ citizen-server-impl] Started resource rsg-jobwagon
+[    c-scripting-core] Creating script environments for rsg-lawbadge
+[ citizen-server-impl] Started resource rsg-lawbadge
+[ citizen-server-impl] Started resource rsg-legendary
+[    c-scripting-core] Creating script environments for rsg-looting
+[ citizen-server-impl] Started resource rsg-looting
+[    c-scripting-core] Creating script environments for rsg-lootsearch
+[ citizen-server-impl] Started resource rsg-lootsearch
+[    c-scripting-core] Creating script environments for rsg-medic
+[38;5;73m[ citizen-server-impl] Started resource rsg-medic
+[    c-scripting-core] Creating script environments for rsg-metabolism
+[38;5;73m[ citizen-server-impl] Started resource rsg-metabolism
+[    c-scripting-core] Creating script environments for rsg-mining
+[ citizen-server-impl] Started resource rsg-mining
+[ citizen-server-impl] Started resource map-moonshineshacks
+[    c-scripting-core] Creating script environments for rsg-moonshiner
+[ citizen-server-impl] Started resource rsg-moonshiner
+[    c-scripting-core] Creating script environments for rsg-multicharacter
+[ citizen-server-impl] Started resource rsg-multicharacter
+[    c-scripting-core] Creating script environments for rsg-notepad
+[ citizen-server-impl] Started resource rsg-notepad
+[    c-scripting-core] Creating script environments for rsg-outlawpost
+[ citizen-server-impl] Started resource rsg-outlawpost
+[    c-scripting-core] [97mCreating script environments for rsg-pets
+[ citizen-server-impl] Started resource rsg-pets
+[ citizen-server-impl] Started resource rsg-piano
+[    c-scripting-core] Creating script environments for rsg-policejob
+[ citizen-server-impl] Started resource rsg-policejob
+[    c-scripting-core] Creating script environments for rsg-prison
+[ citizen-server-impl] Started resource rsg-prison
+[    c-scripting-core] Creating script environments for rsg-pvp
+[ citizen-server-impl] Started resource rsg-pvp
+[    c-scripting-core] Creating script environments for rsg-radialmenu
+[ citizen-server-impl] Started resource rsg-radialmenu
+[    c-scripting-core] Creating script environments for rsg-railroadjob
+[ citizen-server-impl] Started resource rsg-railroadjob
+[    c-scripting-core] Creating script environments for rsg-rental
+[ citizen-server-impl] Started resource rsg-rental
+[    c-scripting-core] Creating script environments for rsg-rhodesbankheist
+[ citizen-server-impl] Started resource rsg-rhodesbankheist
+[    c-scripting-core] Creating script environments for xsound
+[ citizen-server-impl] Started resource xsound
+[    c-scripting-core] Creating script environments for rsg-saloontender
+[ citizen-server-impl] Started resource rsg-saloontender
+[    c-scripting-core] Creating script environments for rsg-scoreboard
+[ citizen-server-impl] Started resource rsg-scoreboard
+[    c-scripting-core] [97mCreating script environments for rsg-sellvendor
+[ citizen-server-impl] Started resource rsg-sellvendor
+[    c-scripting-core] Creating script environments for rsg-shops
+[ citizen-server-impl] Started resource rsg-shops
+[    c-scripting-core] Creating script environments for rsg-spawn
+[ citizen-server-impl] Started resource rsg-spawn
+[    c-scripting-core] Creating script environments for rsg-stdenisbankheist
+[ citizen-server-impl] Started resource rsg-stdenisbankheist
+[ citizen-server-impl] Started resource rsg-storage
+[    c-scripting-core] Creating script environments for rsg-townhall
+[ citizen-server-impl] Started resource rsg-townhall
+[    c-scripting-core] Creating script environments for rsg-trader
+[ citizen-server-impl] Started resource rsg-trader
+[    c-scripting-core] Creating script environments for rsg-trapperplus
+[ citizen-server-impl] Started resource rsg-trapperplus
+[    c-scripting-core] Creating script environments for rsg-trashsearch
+[ citizen-server-impl] Started resource rsg-trashsearch
+[    c-scripting-core] [0mCreating script environments for rsg-travel
+[ citizen-server-impl] Started resource rsg-travel
+[    c-scripting-core] [0mCreating script environments for interact-sound
+[ citizen-server-impl] Started resource interact-sound
+[    c-scripting-core] Creating script environments for rsg-treasure
+[ citizen-server-impl] Started resource rsg-treasure
+[    c-scripting-core] Creating script environments for rsg-valentinebankheist
+[ citizen-server-impl] Started resource rsg-valentinebankheist
+[    c-scripting-core] Creating script environments for rsg-vehicles
+[ citizen-server-impl] Started resource rsg-vehicles
+[    c-scripting-core] Creating script environments for rsg-vendor
+[ citizen-server-impl] Started resource rsg-vendor
+[    c-scripting-core] Creating script environments for rsg-weapons
+[ citizen-server-impl] Started resource rsg-weapons
+[    c-scripting-core] Creating script environments for rsg-weaponsmith
+[ citizen-server-impl] Started resource rsg-weaponsmith
+[    c-scripting-core] [97mCreating script environments for rsg-wholesaletrader
+[ citizen-server-impl] Started resource rsg-wholesaletrader
+[    c-scripting-core] Creating script environments for rsg_bedroll
+[ citizen-server-impl] Started resource rsg_bedroll
+[    c-scripting-core] Creating script environments for rsg_phonograph
+[ citizen-server-impl] Started resource rsg_phonograph
+[    c-scripting-core] Creating script environments for rsg_pinboard
+[ citizen-server-impl] Started resource rsg_pinboard
+[    c-scripting-core] Creating script environments for rsg_tent
+[ citizen-server-impl] Started resource rsg_tent
+[ citizen-server-impl] Started resource objectloader
+[ citizen-server-impl] Started resource casino
+[ citizen-server-impl] Started resource kh-doctorval
+[ citizen-server-impl] Started resource map-mexico
+[ citizen-server-impl] Started resource mexico_fort_col
+[38;5;73m[ citizen-server-impl] Started resource redm-ipls
+[ citizen-server-impl] Started resource redm-ymaps
+[ citizen-server-impl] Started resource roulette
+[ citizen-server-impl] Started resource strawberry
+[ citizen-server-impl] Started resource valentinelights
+[ citizen-server-impl] Couldn't find resource ShadyBell.
+[    c-scripting-core] Creating script environments for ak-blackjack
+[ citizen-server-impl] Started resource ak-blackjack
+[ citizen-server-impl] Started resource alentexas_blips
+[38;5;73m[ citizen-server-impl] Started resource ballooncontrols
+[ citizen-server-impl] Started resource bcc-loadscreen
+[    c-scripting-core] Creating script environments for bcc-loadscreen-helper
+[ citizen-server-impl] Started resource bcc-loadscreen-helper
+[    c-scripting-core] Creating script environments for bottleshoot
+[    c-scripting-core] Failed to load script @DokusCore/[ Configs ]/[ Core ]/Core.lua.
+[    c-scripting-core] Failed to load script @DokusCore/[ Configs ]/[ Core ]/Modules.lua.
+[    c-scripting-core] Failed to load script @DokusCore/[ Core ]/[ System ]/[ Shared ]/CBSystem.lua.
+[ citizen-server-impl] Started resource bottleshoot
+[    c-scripting-core] Creating script environments for connectqueue
+[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[ citizen-server-impl] Stopping resource hardcap
+[ citizen-server-impl] Started resource connectqueue
+[ citizen-server-impl] Started resource db-femped
+[    c-scripting-core] Creating script environments for hum_robbery
+[ citizen-server-impl] Started resource hum_robbery
+[    c-scripting-core] Creating script environments for kz-witnesses
+[ citizen-server-impl] Started resource kz-witnesses
+[ citizen-server-impl] Started resource malik_logo
+[38;5;73m[ citizen-server-impl] Started resource menuv
+[    c-scripting-core] Creating script environments for moped_doctor
+[ citizen-server-impl] Started resource moped_doctor
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for pma-voice
+[38;5;73m[ citizen-server-impl] Started resource pma-voice
+[ citizen-server-impl] Started resource progressBars
+[ citizen-server-impl] Started resource progressbar
+[    c-scripting-core] Creating script environments for qr-cinema
+[ citizen-server-impl] Started resource qr-cinema
+[ citizen-server-impl] Started resource redemrp_notification
+[ citizen-server-impl] Started resource redm-interactions
+[    c-scripting-core] Creating script environments for rsg-givecash
+[ citizen-server-impl] Started resource rsg-givecash
+[    c-scripting-core] [0mCreating script environments for rsg-stolenwagon
+[ citizen-server-impl] Started resource rsg-stolenwagon
+[ citizen-server-impl] Started resource safecracker
+[    c-scripting-core] Creating script environments for sell_wild_horse
+[ citizen-server-impl] Started resource sell_wild_horse
+[ citizen-server-impl] Started resource uiprompt
+[    c-scripting-core] Creating script environments for spooner
+[ citizen-server-impl] Started resource spooner
+[    c-scripting-core] Creating script environments for syn_horseitems
+[ citizen-server-impl] Started resource syn_horseitems
+[38;5;73m[ citizen-server-impl] Started resource syn_minigame
+[ citizen-server-impl] Started resource wcrp_baloon
+[    c-scripting-core] Creating script environments for weathersync
+[ citizen-server-impl] Started resource weathersync
+[    c-scripting-core] Creating script environments for woosh_pd
+[ citizen-server-impl] Started resource woosh_pd
+[    c-scripting-core] Creating script environments for Identity
+[ citizen-server-impl] Started resource Identity
+[    c-scripting-core] Creating script environments for addz_qr_roulette
+[ citizen-server-impl] Started resource addz_qr_roulette
+[ citizen-server-impl] Started resource rsg-lock
+[    c-scripting-core] Creating script environments for bcc-oil
+[38;5;73m[ citizen-server-impl] Started resource bcc-oil
+[    c-scripting-core] Creating script environments for borp_fightclub
+[ citizen-server-impl] Started resource borp_fightclub
+[    c-scripting-core] Creating script environments for cs_documents
+[38;5;73m[ citizen-server-impl] Started resource cs_documents
+[    c-scripting-core] Creating script environments for lhr_azar
+[38;5;73m[ citizen-server-impl] Started resource lhr_azar
+[    c-scripting-core] Creating script environments for mb-GetRichPlayer
+[ citizen-server-impl] Started resource mb-GetRichPlayer
+[38;5;73m[ citizen-server-impl] Started resource myprogressBars
+[38;5;161m[    c-scripting-core] Creating script environments for qr-hanging
+[38;5;73m[ citizen-server-impl] Started resource qr-hanging
+[38;5;161m[    c-scripting-core] Creating script environments for restartmessage
+[38;5;73m[ citizen-server-impl] Started resource restartmessage
+[    c-scripting-core] Creating script environments for ricx_mexico_hotel
+[ citizen-server-impl] Started resource ricx_mexico_hotel
+[    c-scripting-core] [0mCreating script environments for rsg-Backpacks
+[ citizen-server-impl] Started resource rsg-Backpacks
+[    c-scripting-core] Creating script environments for rsg-carrot
+[ citizen-server-impl] Started resource rsg-carrot
+[    c-scripting-core] Creating script environments for rsg-cocaine
+[ citizen-server-impl] Started resource rsg-cocaine
+[    c-scripting-core] Creating script environments for rsg-cotton
+[ citizen-server-impl] Started resource rsg-cotton
+[    c-scripting-core] Creating script environments for rsg-crafttable
+[ citizen-server-impl] Started resource rsg-crafttable
+[    c-scripting-core] Creating script environments for rsg-dimondrush
+[38;5;73m[ citizen-server-impl] Started resource rsg-dimondrush
+[    c-scripting-core] Creating script environments for rsg-dirtyworks
+[ citizen-server-impl] Started resource rsg-dirtyworks
+[    c-scripting-core] Creating script environments for rsg-drugeffects
+[ citizen-server-impl] Started resource rsg-drugeffects
+[    c-scripting-core] Creating script environments for rsg-eggs
+[ citizen-server-impl] Started resource rsg-eggs
+[    c-scripting-core] Creating script environments for rsg-fence1
+[ citizen-server-impl] Started resource rsg-fence1
+[    c-scripting-core] Creating script environments for rsg-foodplant
+[ citizen-server-impl] Started resource rsg-foodplant
+[    c-scripting-core] Creating script environments for rsg-gravedigger
+[ citizen-server-impl] Started resource rsg-gravedigger
+[    c-scripting-core] Creating script environments for rsg-herbs
+[ citizen-server-impl] Started resource rsg-herbs
+[    c-scripting-core] Creating script environments for rsg-jobboard
+[ citizen-server-impl] Started resource rsg-jobboard
+[    c-scripting-core] Creating script environments for rsg-lawtool
+[ citizen-server-impl] Started resource rsg-lawtool
+[    c-scripting-core] Creating script environments for rsg-mdt
+[ citizen-server-impl] Started resource rsg-mdt
+[    c-scripting-core] [0mCreating script environments for rsg-oilsearch
+[ citizen-server-impl] Started resource rsg-oilsearch
+[    c-scripting-core] Creating script environments for rsg-potato
+[ citizen-server-impl] Started resource rsg-potato
+[    c-scripting-core] Creating script environments for rsg-robnpc
+[ citizen-server-impl] Started resource rsg-robnpc
+[    c-scripting-core] Creating script environments for rsg-stove
+[38;5;73m[ citizen-server-impl] Started resource rsg-stove
+[    c-scripting-core] Creating script environments for rsg-sugar
+[ citizen-server-impl] Started resource rsg-sugar
+[    c-scripting-core] Creating script environments for rsg-torch
+[ citizen-server-impl] Started resource rsg-torch
+[    c-scripting-core] Creating script environments for rsg_barrier
+[ citizen-server-impl] Started resource rsg_barrier
+[    c-scripting-core] Creating script environments for syn_dice
+[ citizen-server-impl] Started resource syn_dice
+[    c-scripting-core] Creating script environments for bcc-ranch
+[ citizen-server-impl] Started resource bcc-ranch
+[ citizen-server-impl] Stopping resource rsg-cooking
+[    c-scripting-core] [0mCreating script environments for rsg-cooking
+[ citizen-server-impl] Started resource rsg-cooking
+[    script:bcc-utils] ✅Up to Date! [bcc-utils] (Current Version 1.0.3)
+[      script:rsg-mdt] ---------------------------------------------------------------------------
+[      script:rsg-mdt]  rsg-mdt -  Archive System for RSGCore
+[      script:rsg-mdt] ---------------------------------------------------------------------------
+[      script:rsg-mdt] 
+[      script:rsg-mdt] ✅ Up to Date! (Current Version 1.0)
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[   script:mapmanager] Started map redm-map-one
+[ citizen-server-impl] Started resource redm-map-one
+[ citizen-server-impl] server thread hitch warning: timer interval of 202 milliseconds
+[38;5;42m[      script:oxmysql] Database server connection established!
+[38;5;23m[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.6.1
+[      script:oxmysql] An update is available for oxmysql (current version: 2.5.4)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.1
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://makemsalty-v6ej6x.users.cfx.re/
+[ script:connectqueue] [0mQUEUE: goin[steam:1100001428dfcf6] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: goin[steam:1100001428dfcf6] is loading into the server
+[ script:connectqueue] [0mQUEUE: YT_MakemSalty[steam:110000146195b8c] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] is loading into the server
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] YT_MakemSalty (Citizen ID: SWM92973) has succesfully loaded!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] goin (Citizen ID: ITM99974) has succesfully loaded!
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+> stop bcc-oil
+[ citizen-server-impl] Stopping resource bcc-oil
+[     script:rsg-core] [rsg-core:LOG] goin PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[ citizen-server-impl] Stopping resource rsg-stove
+[    c-scripting-core] Creating script environments for rsg-stove
+[ citizen-server-impl] Started resource rsg-stove
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] is loading into the server
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] YT_MakemSalty (Citizen ID: SWM92973) has succesfully loaded!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] YT_MakemSalty PLAYER SAVED!
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[  script:rsg-cocaine] Removing Dead Plant with ID 738362
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[   script:rsg-trader] Market Trader Cycle Complete
+[ script:connectqueue] QUEUE: josha[license:b1aad01718f2b09e1ddd71216edaae3a4a0e069a] was placed 1/1 in queue
+[ script:connectqueue] [93mQUEUE: josha[license:b1aad01718f2b09e1ddd71216edaae3a4a0e069a] is loading into the server
+[ citizen-server-impl] sync thread hitch warning: timer interval of 138 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[ script:connectqueue] QUEUE: josha[license:b1aad01718f2b09e1ddd71216edaae3a4a0e069a] was removed from the connecting queue because they timed out
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂MakemSalty＂,＂message＂:＂Server restarting (requested by MakemSalty).＂}"
+[      script:monitor] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 6/26/2023, 4:22:23 PM              
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[ citizen-server-impl] Scanning resources.
+[    c-resources-core] Resource loading for ShadyBell failed:
+[    c-resources-core] Could not open resource metadata file - no such file.
+[    c-resources-core] Resource loading for flatneck failed:
+[    c-resources-core] Could not open resource metadata file - no such file.
+[38;5;73m[ citizen-server-impl] Found 214 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for sessionmanager-rdr3
+[ citizen-server-impl] Started resource sessionmanager-rdr3
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.0.1 starting...
+[ citizen-server-impl] Started resource monitor
+[38;5;161m[    c-scripting-core] Creating script environments for bcc-utils
+[ citizen-server-impl] Started resource bcc-utils
+[    c-scripting-core] Creating script environments for bcc-minigames
+[ citizen-server-impl] Started resource bcc-minigames
+[ citizen-server-impl] Started resource vorp_inputs
+[    c-scripting-core] [97mCreating script environments for vorp_utils
+[38;5;73m[ citizen-server-impl] Started resource vorp_utils
+[ citizen-server-impl] Started resource menuapi
+[    c-scripting-core] Creating script environments for mapmanager
+[ citizen-server-impl] Started resource mapmanager
+[    c-scripting-core] Creating script environments for webpack
+[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[   script:mapmanager] Started gametype Freeroam
+[ citizen-server-impl] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for rconlog
+[ citizen-server-impl] Started resource rconlog
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] Started resource oxmysql
+[    c-scripting-core] Creating script environments for rsg-core
+[ citizen-server-impl] Started resource rsg-core
+[ citizen-server-impl] Started resource rsg-menubase
+[    c-scripting-core] Creating script environments for asgard-adminmenu
+[ citizen-server-impl] Started resource asgard-adminmenu
+[    c-scripting-core] Creating script environments for karmasystem
+[ citizen-server-impl] Started resource karmasystem
+[    c-scripting-core] Creating script environments for rsg-adminmenu
+[ citizen-server-impl] Started resource rsg-adminmenu
+[    c-scripting-core] Creating script environments for rsg-appearance
+[ citizen-server-impl] Started resource rsg-appearance
+[    c-scripting-core] Creating script environments for rsg-bandits
+[38;5;73m[ citizen-server-impl] Started resource rsg-bandits
+[    c-scripting-core] Creating script environments for rsg-banking
+[ citizen-server-impl] Started resource rsg-banking
+[    c-scripting-core] Creating script environments for rsg-npcs
+[ citizen-server-impl] Started resource rsg-npcs
+[    c-scripting-core] Creating script environments for rsg-barbers
+[ citizen-server-impl] Started resource rsg-barbers
+[    c-scripting-core] Creating script environments for rsg-clothes
+[ citizen-server-impl] Started resource rsg-clothes
+[    c-scripting-core] Creating script environments for rsg-wardrobe
+[ citizen-server-impl] Started resource rsg-wardrobe
+[    c-scripting-core] Creating script environments for rsg-bathing
+[ citizen-server-impl] Started resource rsg-bathing
+[    c-scripting-core] Creating script environments for PolyZone
+[38;5;73m[ citizen-server-impl] Started resource PolyZone
+[ citizen-server-impl] Started resource rsg-target
+[    c-scripting-core] Creating script environments for rsg-beekeeper
+[ citizen-server-impl] Started resource rsg-beekeeper
+[ citizen-server-impl] Started resource rsg-input
+[ citizen-server-impl] Started resource rsg-menu
+[    c-scripting-core] Creating script environments for rsg-billing
+[ citizen-server-impl] Started resource rsg-billing
+[ citizen-server-impl] Started resource rsg-lockpick
+[    c-scripting-core] Creating script environments for rsg-blackwaterbankheist
+[ citizen-server-impl] Started resource rsg-blackwaterbankheist
+[38;5;73m[ citizen-server-impl] Started resource menu_base
+[    c-scripting-core] Creating script environments for rsg-boats
+[ citizen-server-impl] Started resource rsg-boats
+[    c-scripting-core] Creating script environments for rsg-butcher
+[ citizen-server-impl] Started resource rsg-butcher
+[    c-scripting-core] Creating script environments for rsg-canoe
+[ citizen-server-impl] Started resource rsg-canoe
+[    c-scripting-core] Creating script environments for rsg-contraband
+[ citizen-server-impl] Started resource rsg-contraband
+[    c-scripting-core] Creating script environments for rsg-cooking
+[ citizen-server-impl] Started resource rsg-cooking
+[    c-scripting-core] Creating script environments for rsg-crafting
+[38;5;73m[ citizen-server-impl] Started resource rsg-crafting
+[    c-scripting-core] Creating script environments for rsg-delivery
+[ citizen-server-impl] Started resource rsg-delivery
+[    c-scripting-core] Creating script environments for rsg-doorlock
+[ citizen-server-impl] Started resource rsg-doorlock
+[    c-scripting-core] Creating script environments for rsg-drinker
+[ citizen-server-impl] Started resource rsg-drinker
+[    c-scripting-core] Creating script environments for rsg-dualwield
+[ citizen-server-impl] Started resource rsg-dualwield
+[    c-scripting-core] Creating script environments for rsg-essentials
+[ citizen-server-impl] Started resource rsg-essentials
+[    c-scripting-core] Creating script environments for rsg-farmer
+[ citizen-server-impl] Started resource rsg-farmer
+[    c-scripting-core] Creating script environments for rsg-fasttravel
+[ citizen-server-impl] Started resource rsg-fasttravel
+[    c-scripting-core] Creating script environments for rsg-fishing
+[ citizen-server-impl] Started resource rsg-fishing
+[    c-scripting-core] [97mCreating script environments for rsg-fishvendor
+[ citizen-server-impl] Started resource rsg-fishvendor
+[    c-scripting-core] Creating script environments for rsg-gatherer
+[ citizen-server-impl] Started resource rsg-gatherer
+[    c-scripting-core] Creating script environments for rsg-goldpanning
+[ citizen-server-impl] Started resource rsg-goldpanning
+[    c-scripting-core] Creating script environments for rsg-goldsmelt
+[ citizen-server-impl] Started resource rsg-goldsmelt
+[    c-scripting-core] [0mCreating script environments for rsg-horseraces
+[ citizen-server-impl] Started resource rsg-horseraces
+[    c-scripting-core] Creating script environments for rsg-horses
+[38;5;73m[ citizen-server-impl] Started resource rsg-horses
+[    c-scripting-core] Creating script environments for rsg-horsetrainer
+[38;5;73m[ citizen-server-impl] Started resource rsg-horsetrainer
+[    c-scripting-core] Creating script environments for rsg-hotel
+[ citizen-server-impl] Started resource rsg-hotel
+[    c-scripting-core] [0mCreating script environments for rsg-management
+[ citizen-server-impl] Started resource rsg-management
+[38;5;161m[    c-scripting-core] Creating script environments for rsg-houses
+[ citizen-server-impl] Started resource rsg-houses
+[    c-scripting-core] Creating script environments for rsg-telegram
+[ citizen-server-impl] Started resource rsg-telegram
+[    c-scripting-core] Creating script environments for rsg-hud
+[38;5;73m[ citizen-server-impl] Started resource rsg-hud
+[    c-scripting-core] Creating script environments for rsg-indiantobacco
+[ citizen-server-impl] Started resource rsg-indiantobacco
+[    c-scripting-core] [97mCreating script environments for rsg-inventory
+[ citizen-server-impl] Started resource rsg-inventory
+[    c-scripting-core] Creating script environments for rsg-jobwagon
+[ citizen-server-impl] Started resource rsg-jobwagon
+[    c-scripting-core] Creating script environments for rsg-lawbadge
+[ citizen-server-impl] Started resource rsg-lawbadge
+[ citizen-server-impl] Started resource rsg-legendary
+[    c-scripting-core] [97mCreating script environments for rsg-looting
+[ citizen-server-impl] Started resource rsg-looting
+[    c-scripting-core] Creating script environments for rsg-lootsearch
+[ citizen-server-impl] Started resource rsg-lootsearch
+[    c-scripting-core] Creating script environments for rsg-medic
+[ citizen-server-impl] Started resource rsg-medic
+[    c-scripting-core] [0mCreating script environments for rsg-metabolism
+[ citizen-server-impl] Started resource rsg-metabolism
+[    c-scripting-core] Creating script environments for rsg-mining
+[ citizen-server-impl] Started resource rsg-mining
+[ citizen-server-impl] Started resource map-moonshineshacks
+[    c-scripting-core] Creating script environments for rsg-moonshiner
+[ citizen-server-impl] Started resource rsg-moonshiner
+[    c-scripting-core] Creating script environments for rsg-multicharacter
+[ citizen-server-impl] Started resource rsg-multicharacter
+[    c-scripting-core] Creating script environments for rsg-notepad
+[38;5;73m[ citizen-server-impl] Started resource rsg-notepad
+[    c-scripting-core] Creating script environments for rsg-outlawpost
+[ citizen-server-impl] Started resource rsg-outlawpost
+[    c-scripting-core] [97mCreating script environments for rsg-pets
+[ citizen-server-impl] Started resource rsg-pets
+[ citizen-server-impl] Started resource rsg-piano
+[    c-scripting-core] [0mCreating script environments for rsg-policejob
+[ citizen-server-impl] Started resource rsg-policejob
+[    c-scripting-core] [0mCreating script environments for rsg-prison
+[ citizen-server-impl] Started resource rsg-prison
+[    c-scripting-core] Creating script environments for rsg-pvp
+[ citizen-server-impl] Started resource rsg-pvp
+[    c-scripting-core] [97mCreating script environments for rsg-radialmenu
+[ citizen-server-impl] Started resource rsg-radialmenu
+[    c-scripting-core] [97mCreating script environments for rsg-railroadjob
+[38;5;73m[ citizen-server-impl] Started resource rsg-railroadjob
+[    c-scripting-core] Creating script environments for rsg-rental
+[ citizen-server-impl] Started resource rsg-rental
+[    c-scripting-core] Creating script environments for rsg-rhodesbankheist
+[ citizen-server-impl] Started resource rsg-rhodesbankheist
+[    c-scripting-core] [97mCreating script environments for xsound
+[ citizen-server-impl] Started resource xsound
+[    c-scripting-core] Creating script environments for rsg-saloontender
+[ citizen-server-impl] Started resource rsg-saloontender
+[    c-scripting-core] [97mCreating script environments for rsg-scoreboard
+[ citizen-server-impl] Started resource rsg-scoreboard
+[    c-scripting-core] [0mCreating script environments for rsg-sellvendor
+[ citizen-server-impl] Started resource rsg-sellvendor
+[    c-scripting-core] Creating script environments for rsg-shops
+[ citizen-server-impl] Started resource rsg-shops
+[    c-scripting-core] Creating script environments for rsg-spawn
+[ citizen-server-impl] Started resource rsg-spawn
+[    c-scripting-core] [97mCreating script environments for rsg-stdenisbankheist
+[ citizen-server-impl] Started resource rsg-stdenisbankheist
+[ citizen-server-impl] Started resource rsg-storage
+[    c-scripting-core] Creating script environments for rsg-townhall
+[ citizen-server-impl] Started resource rsg-townhall
+[    c-scripting-core] Creating script environments for rsg-trader
+[ citizen-server-impl] Started resource rsg-trader
+[    c-scripting-core] Creating script environments for rsg-trapperplus
+[ citizen-server-impl] Started resource rsg-trapperplus
+[    c-scripting-core] [97mCreating script environments for rsg-trashsearch
+[ citizen-server-impl] Started resource rsg-trashsearch
+[    c-scripting-core] [97mCreating script environments for rsg-travel
+[ citizen-server-impl] Started resource rsg-travel
+[    c-scripting-core] Creating script environments for interact-sound
+[ citizen-server-impl] Started resource interact-sound
+[    c-scripting-core] [97mCreating script environments for rsg-treasure
+[ citizen-server-impl] Started resource rsg-treasure
+[    c-scripting-core] Creating script environments for rsg-valentinebankheist
+[ citizen-server-impl] Started resource rsg-valentinebankheist
+[    c-scripting-core] [97mCreating script environments for rsg-vehicles
+[ citizen-server-impl] Started resource rsg-vehicles
+[    c-scripting-core] Creating script environments for rsg-vendor
+[ citizen-server-impl] Started resource rsg-vendor
+[    c-scripting-core] [97mCreating script environments for rsg-weapons
+[ citizen-server-impl] Started resource rsg-weapons
+[    c-scripting-core] [0mCreating script environments for rsg-weaponsmith
+[ citizen-server-impl] Started resource rsg-weaponsmith
+[    c-scripting-core] Creating script environments for rsg-wholesaletrader
+[ citizen-server-impl] Started resource rsg-wholesaletrader
+[    c-scripting-core] Creating script environments for rsg_bedroll
+[ citizen-server-impl] Started resource rsg_bedroll
+[    c-scripting-core] Creating script environments for rsg_phonograph
+[ citizen-server-impl] Started resource rsg_phonograph
+[    c-scripting-core] [97mCreating script environments for rsg_pinboard
+[38;5;73m[ citizen-server-impl] Started resource rsg_pinboard
+[    c-scripting-core] Creating script environments for rsg_tent
+[38;5;73m[ citizen-server-impl] Started resource rsg_tent
+[38;5;73m[ citizen-server-impl] Started resource objectloader
+[ citizen-server-impl] Started resource casino
+[ citizen-server-impl] Started resource kh-doctorval
+[ citizen-server-impl] Started resource map-mexico
+[ citizen-server-impl] Started resource mexico_fort_col
+[ citizen-server-impl] Started resource redm-ipls
+[38;5;73m[ citizen-server-impl] Started resource redm-ymaps
+[ citizen-server-impl] Started resource roulette
+[ citizen-server-impl] Started resource strawberry
+[ citizen-server-impl] Started resource valentinelights
+[ citizen-server-impl] Couldn't find resource ShadyBell.
+[    c-scripting-core] [0mCreating script environments for ak-blackjack
+[ citizen-server-impl] Started resource ak-blackjack
+[ citizen-server-impl] Started resource alentexas_blips
+[ citizen-server-impl] Started resource ballooncontrols
+[ citizen-server-impl] Started resource bcc-loadscreen
+[    c-scripting-core] Creating script environments for bcc-loadscreen-helper
+[ citizen-server-impl] Started resource bcc-loadscreen-helper
+[    c-scripting-core] Creating script environments for bottleshoot
+[    c-scripting-core] Failed to load script @DokusCore/[ Configs ]/[ Core ]/Core.lua.
+[    c-scripting-core] Failed to load script @DokusCore/[ Configs ]/[ Core ]/Modules.lua.
+[    c-scripting-core] Failed to load script @DokusCore/[ Core ]/[ System ]/[ Shared ]/CBSystem.lua.
+[ citizen-server-impl] Started resource bottleshoot
+[    c-scripting-core] [0mCreating script environments for connectqueue
+[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[ citizen-server-impl] Stopping resource hardcap
+[ citizen-server-impl] Started resource connectqueue
+[ citizen-server-impl] Started resource db-femped
+[    c-scripting-core] Creating script environments for hum_robbery
+[ citizen-server-impl] Started resource hum_robbery
+[    c-scripting-core] Creating script environments for kz-witnesses
+[38;5;73m[ citizen-server-impl] Started resource kz-witnesses
+[ citizen-server-impl] Started resource malik_logo
+[ citizen-server-impl] Started resource menuv
+[    c-scripting-core] [0mCreating script environments for moped_doctor
+[ citizen-server-impl] Started resource moped_doctor
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[ citizen-server-impl] Started resource progressBars
+[ citizen-server-impl] Started resource progressbar
+[    c-scripting-core] Creating script environments for qr-cinema
+[ citizen-server-impl] Started resource qr-cinema
+[ citizen-server-impl] Started resource redemrp_notification
+[38;5;73m[ citizen-server-impl] Started resource redm-interactions
+[    c-scripting-core] Creating script environments for rsg-givecash
+[ citizen-server-impl] Started resource rsg-givecash
+[    c-scripting-core] Creating script environments for rsg-stolenwagon
+[ citizen-server-impl] Started resource rsg-stolenwagon
+[ citizen-server-impl] Started resource safecracker
+[    c-scripting-core] Creating script environments for sell_wild_horse
+[ citizen-server-impl] Started resource sell_wild_horse
+[ citizen-server-impl] Started resource uiprompt
+[    c-scripting-core] Creating script environments for spooner
+[ citizen-server-impl] Started resource spooner
+[    c-scripting-core] Creating script environments for syn_horseitems
+[ citizen-server-impl] Started resource syn_horseitems
+[ citizen-server-impl] Started resource syn_minigame
+[ citizen-server-impl] Started resource wcrp_baloon
+[    c-scripting-core] Creating script environments for weathersync
+[ citizen-server-impl] Started resource weathersync
+[    c-scripting-core] [0mCreating script environments for woosh_pd
+[ citizen-server-impl] Started resource woosh_pd
+[    c-scripting-core] Creating script environments for Identity
+[ citizen-server-impl] Started resource Identity
+[    c-scripting-core] Creating script environments for addz_qr_roulette
+[ citizen-server-impl] Started resource addz_qr_roulette
+[    c-scripting-core] Creating script environments for borp_fightclub
+[ citizen-server-impl] Started resource borp_fightclub
+[    c-scripting-core] Creating script environments for cs_documents
+[ citizen-server-impl] Started resource cs_documents
+[    c-scripting-core] Creating script environments for lhr_azar
+[38;5;73m[ citizen-server-impl] Started resource lhr_azar
+[    c-scripting-core] Creating script environments for mb-GetRichPlayer
+[ citizen-server-impl] Started resource mb-GetRichPlayer
+[ citizen-server-impl] Started resource myprogressBars
+[    c-scripting-core] Creating script environments for qr-hanging
+[ citizen-server-impl] Started resource qr-hanging
+[    c-scripting-core] Creating script environments for restartmessage
+[ citizen-server-impl] Started resource restartmessage
+[    c-scripting-core] Creating script environments for ricx_mexico_hotel
+[ citizen-server-impl] Started resource ricx_mexico_hotel
+[    c-scripting-core] [0mCreating script environments for rsg-Backpacks
+[ citizen-server-impl] Started resource rsg-Backpacks
+[    c-scripting-core] Creating script environments for rsg-carrot
+[38;5;73m[ citizen-server-impl] Started resource rsg-carrot
+[    c-scripting-core] Creating script environments for rsg-cocaine
+[ citizen-server-impl] Started resource rsg-cocaine
+[    c-scripting-core] Creating script environments for rsg-cotton
+[ citizen-server-impl] Started resource rsg-cotton
+[    c-scripting-core] Creating script environments for rsg-crafttable
+[ citizen-server-impl] Started resource rsg-crafttable
+[    c-scripting-core] Creating script environments for rsg-dimondrush
+[ citizen-server-impl] Started resource rsg-dimondrush
+[    c-scripting-core] Creating script environments for rsg-dirtyworks
+[ citizen-server-impl] Started resource rsg-dirtyworks
+[    c-scripting-core] Creating script environments for rsg-drugeffects
+[ citizen-server-impl] Started resource rsg-drugeffects
+[    c-scripting-core] Creating script environments for rsg-eggs
+[38;5;73m[ citizen-server-impl] Started resource rsg-eggs
+[    c-scripting-core] Creating script environments for rsg-fence1
+[ citizen-server-impl] Started resource rsg-fence1
+[    c-scripting-core] Creating script environments for rsg-foodplant
+[ citizen-server-impl] Started resource rsg-foodplant
+[    c-scripting-core] Creating script environments for rsg-gravedigger
+[ citizen-server-impl] Started resource rsg-gravedigger
+[    c-scripting-core] [0mCreating script environments for rsg-herbs
+[ citizen-server-impl] Started resource rsg-herbs
+[    c-scripting-core] Creating script environments for rsg-jobboard
+[ citizen-server-impl] Started resource rsg-jobboard
+[    c-scripting-core] Creating script environments for rsg-lawtool
+[ citizen-server-impl] Started resource rsg-lawtool
+[38;5;73m[ citizen-server-impl] Started resource rsg-lock
+[    c-scripting-core] Creating script environments for rsg-mdt
+[ citizen-server-impl] Started resource rsg-mdt
+[    c-scripting-core] [0mCreating script environments for rsg-oilsearch
+[ citizen-server-impl] Started resource rsg-oilsearch
+[    c-scripting-core] Creating script environments for rsg-potato
+[ citizen-server-impl] Started resource rsg-potato
+[    c-scripting-core] Creating script environments for rsg-robnpc
+[38;5;73m[ citizen-server-impl] Started resource rsg-robnpc
+[    c-scripting-core] Creating script environments for rsg-stove
+[ citizen-server-impl] Started resource rsg-stove
+[    c-scripting-core] Creating script environments for rsg-sugar
+[ citizen-server-impl] Started resource rsg-sugar
+[    c-scripting-core] Creating script environments for rsg-torch
+[ citizen-server-impl] Started resource rsg-torch
+[    c-scripting-core] Creating script environments for rsg_barrier
+[ citizen-server-impl] Started resource rsg_barrier
+[    c-scripting-core] Creating script environments for syn_dice
+[38;5;73m[ citizen-server-impl] Started resource syn_dice
+[    c-scripting-core] Creating script environments for bcc-ranch
+[38;5;73m[ citizen-server-impl] Started resource bcc-ranch
+[ citizen-server-impl] Stopping resource rsg-cooking
+[    c-scripting-core] Creating script environments for rsg-cooking
+[ citizen-server-impl] Started resource rsg-cooking
+[    script:bcc-utils] [32m✅Up to Date! [bcc-utils] (Current Version 1.0.3)
+[      script:rsg-mdt] ---------------------------------------------------------------------------
+[      script:rsg-mdt]  rsg-mdt -  Archive System for RSGCore
+[      script:rsg-mdt] ---------------------------------------------------------------------------
+[      script:rsg-mdt] 
+[      script:rsg-mdt] ✅ Up to Date! (Current Version 1.0)
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[   script:mapmanager] Started map redm-map-one
+[ citizen-server-impl] Started resource redm-map-one
+[ citizen-server-impl] server thread hitch warning: timer interval of 202 milliseconds
+[      script:oxmysql] Database server connection established!
+[38;5;23m[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.6.1
+[38;5;42m[      script:oxmysql] An update is available for oxmysql (current version: 2.5.4)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.1
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://makemsalty-v6ej6x.users.cfx.re/
+[38;5;173m[ script:connectqueue] QUEUE: josha[license:b1aad01718f2b09e1ddd71216edaae3a4a0e069a] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: josha[license:b1aad01718f2b09e1ddd71216edaae3a4a0e069a] is loading into the server
+[ script:connectqueue] QUEUE: josha[license:b1aad01718f2b09e1ddd71216edaae3a4a0e069a] was removed from the connecting queue because they timed out
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[ citizen-server-impl] network thread hitch warning: timer interval of 231 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 230 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 244 milliseconds
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] is loading into the server
+[ script:connectqueue] QUEUE: Miss Haines[steam:110000104462228] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Miss Haines[steam:110000104462228] is loading into the server
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂MakemSalty＂,＂message＂:＂Server restarting (requested by MakemSalty).＂}"
+[      script:monitor] Server shutdown imminent. Kicking all players.
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] was removed from the connecting queue because they timed out
+
+================================================================
+======== FXServer Starting - 6/26/2023, 10:31:27 PM             
+================================================================
+[    c-scripting-core] Creating script environments for _cfx_internal
+[ citizen-server-impl] Scanning resources.
+[    c-resources-core] Resource loading for ShadyBell failed:
+[    c-resources-core] Could not open resource metadata file - no such file.
+[    c-resources-core] Resource loading for flatneck failed:
+[38;5;163m[    c-resources-core] Could not open resource metadata file - no such file.
+[ citizen-server-impl] Found 214 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[    c-scripting-core] Creating script environments for sessionmanager-rdr3
+[ citizen-server-impl] Started resource sessionmanager-rdr3
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdminClient] Version 5.0.1 starting...
+[ citizen-server-impl] Started resource monitor
+[    c-scripting-core] Creating script environments for bcc-utils
+[ citizen-server-impl] Started resource bcc-utils
+[    c-scripting-core] [97mCreating script environments for bcc-minigames
+[ citizen-server-impl] Started resource bcc-minigames
+[ citizen-server-impl] Started resource vorp_inputs
+[    c-scripting-core] [97mCreating script environments for vorp_utils
+[ citizen-server-impl] Started resource vorp_utils
+[ citizen-server-impl] Started resource menuapi
+[    c-scripting-core] Creating script environments for mapmanager
+[ citizen-server-impl] Started resource mapmanager
+[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] Started resource chat
+[ citizen-server-impl] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for sessionmanager
+[ citizen-server-impl] Started resource sessionmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[ citizen-server-impl] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] Started resource hardcap
+[    c-scripting-core] Creating script environments for rconlog
+[ citizen-server-impl] Started resource rconlog
+[    c-scripting-core] Creating script environments for oxmysql
+[38;5;73m[ citizen-server-impl] Started resource oxmysql
+[38;5;161m[    c-scripting-core] Creating script environments for rsg-core
+[38;5;73m[ citizen-server-impl] Started resource rsg-core
+[38;5;73m[ citizen-server-impl] Started resource rsg-menubase
+[38;5;161m[    c-scripting-core] Creating script environments for asgard-adminmenu
+[38;5;73m[ citizen-server-impl] Started resource asgard-adminmenu
+[    c-scripting-core] Creating script environments for karmasystem
+[ citizen-server-impl] Started resource karmasystem
+[    c-scripting-core] Creating script environments for rsg-adminmenu
+[ citizen-server-impl] Started resource rsg-adminmenu
+[    c-scripting-core] Creating script environments for rsg-appearance
+[ citizen-server-impl] Started resource rsg-appearance
+[    c-scripting-core] Creating script environments for rsg-bandits
+[ citizen-server-impl] Started resource rsg-bandits
+[    c-scripting-core] Creating script environments for rsg-banking
+[ citizen-server-impl] Started resource rsg-banking
+[    c-scripting-core] [0mCreating script environments for rsg-npcs
+[ citizen-server-impl] Started resource rsg-npcs
+[    c-scripting-core] [97mCreating script environments for rsg-barbers
+[ citizen-server-impl] Started resource rsg-barbers
+[    c-scripting-core] Creating script environments for rsg-clothes
+[ citizen-server-impl] Started resource rsg-clothes
+[    c-scripting-core] Creating script environments for rsg-wardrobe
+[ citizen-server-impl] Started resource rsg-wardrobe
+[    c-scripting-core] Creating script environments for rsg-bathing
+[ citizen-server-impl] Started resource rsg-bathing
+[    c-scripting-core] [97mCreating script environments for PolyZone
+[ citizen-server-impl] Started resource PolyZone
+[ citizen-server-impl] Started resource rsg-target
+[    c-scripting-core] Creating script environments for rsg-beekeeper
+[ citizen-server-impl] Started resource rsg-beekeeper
+[ citizen-server-impl] Started resource rsg-input
+[ citizen-server-impl] Started resource rsg-menu
+[    c-scripting-core] Creating script environments for rsg-billing
+[ citizen-server-impl] Started resource rsg-billing
+[ citizen-server-impl] Started resource rsg-lockpick
+[    c-scripting-core] Creating script environments for rsg-blackwaterbankheist
+[ citizen-server-impl] Started resource rsg-blackwaterbankheist
+[ citizen-server-impl] Started resource menu_base
+[    c-scripting-core] Creating script environments for rsg-boats
+[ citizen-server-impl] Started resource rsg-boats
+[    c-scripting-core] Creating script environments for rsg-butcher
+[ citizen-server-impl] Started resource rsg-butcher
+[    c-scripting-core] Creating script environments for rsg-canoe
+[ citizen-server-impl] Started resource rsg-canoe
+[    c-scripting-core] Creating script environments for rsg-contraband
+[ citizen-server-impl] Started resource rsg-contraband
+[    c-scripting-core] Creating script environments for rsg-cooking
+[ citizen-server-impl] Started resource rsg-cooking
+[    c-scripting-core] Creating script environments for rsg-crafting
+[ citizen-server-impl] Started resource rsg-crafting
+[    c-scripting-core] Creating script environments for rsg-delivery
+[ citizen-server-impl] Started resource rsg-delivery
+[    c-scripting-core] Creating script environments for rsg-doorlock
+[ citizen-server-impl] Started resource rsg-doorlock
+[    c-scripting-core] Creating script environments for rsg-drinker
+[ citizen-server-impl] Started resource rsg-drinker
+[    c-scripting-core] [97mCreating script environments for rsg-dualwield
+[ citizen-server-impl] Started resource rsg-dualwield
+[    c-scripting-core] [0mCreating script environments for rsg-essentials
+[ citizen-server-impl] Started resource rsg-essentials
+[    c-scripting-core] Creating script environments for rsg-farmer
+[ citizen-server-impl] Started resource rsg-farmer
+[    c-scripting-core] Creating script environments for rsg-fasttravel
+[ citizen-server-impl] Started resource rsg-fasttravel
+[    c-scripting-core] Creating script environments for rsg-fishing
+[ citizen-server-impl] Started resource rsg-fishing
+[    c-scripting-core] Creating script environments for rsg-fishvendor
+[ citizen-server-impl] Started resource rsg-fishvendor
+[    c-scripting-core] Creating script environments for rsg-gatherer
+[ citizen-server-impl] Started resource rsg-gatherer
+[    c-scripting-core] Creating script environments for rsg-goldpanning
+[ citizen-server-impl] Started resource rsg-goldpanning
+[    c-scripting-core] Creating script environments for rsg-goldsmelt
+[ citizen-server-impl] Started resource rsg-goldsmelt
+[    c-scripting-core] [0mCreating script environments for rsg-horseraces
+[ citizen-server-impl] Started resource rsg-horseraces
+[    c-scripting-core] [97mCreating script environments for rsg-horses
+[ citizen-server-impl] Started resource rsg-horses
+[    c-scripting-core] Creating script environments for rsg-horsetrainer
+[ citizen-server-impl] Started resource rsg-horsetrainer
+[    c-scripting-core] Creating script environments for rsg-hotel
+[ citizen-server-impl] Started resource rsg-hotel
+[38;5;161m[    c-scripting-core] Creating script environments for rsg-management
+[ citizen-server-impl] Started resource rsg-management
+[    c-scripting-core] Creating script environments for rsg-houses
+[ citizen-server-impl] Started resource rsg-houses
+[    c-scripting-core] Creating script environments for rsg-telegram
+[ citizen-server-impl] Started resource rsg-telegram
+[    c-scripting-core] Creating script environments for rsg-hud
+[ citizen-server-impl] Started resource rsg-hud
+[    c-scripting-core] Creating script environments for rsg-indiantobacco
+[ citizen-server-impl] Started resource rsg-indiantobacco
+[    c-scripting-core] [0mCreating script environments for rsg-inventory
+[ citizen-server-impl] Started resource rsg-inventory
+[    c-scripting-core] Creating script environments for rsg-jobwagon
+[ citizen-server-impl] Started resource rsg-jobwagon
+[    c-scripting-core] Creating script environments for rsg-lawbadge
+[ citizen-server-impl] Started resource rsg-lawbadge
+[ citizen-server-impl] Started resource rsg-legendary
+[    c-scripting-core] Creating script environments for rsg-looting
+[ citizen-server-impl] Started resource rsg-looting
+[    c-scripting-core] Creating script environments for rsg-lootsearch
+[ citizen-server-impl] Started resource rsg-lootsearch
+[    c-scripting-core] Creating script environments for rsg-medic
+[ citizen-server-impl] Started resource rsg-medic
+[    c-scripting-core] [97mCreating script environments for rsg-metabolism
+[ citizen-server-impl] Started resource rsg-metabolism
+[    c-scripting-core] Creating script environments for rsg-mining
+[ citizen-server-impl] Started resource rsg-mining
+[ citizen-server-impl] Started resource map-moonshineshacks
+[    c-scripting-core] Creating script environments for rsg-moonshiner
+[ citizen-server-impl] Started resource rsg-moonshiner
+[    c-scripting-core] Creating script environments for rsg-multicharacter
+[ citizen-server-impl] Started resource rsg-multicharacter
+[    c-scripting-core] Creating script environments for rsg-notepad
+[ citizen-server-impl] Started resource rsg-notepad
+[    c-scripting-core] [97mCreating script environments for rsg-outlawpost
+[ citizen-server-impl] Started resource rsg-outlawpost
+[    c-scripting-core] Creating script environments for rsg-pets
+[ citizen-server-impl] Started resource rsg-pets
+[38;5;73m[ citizen-server-impl] Started resource rsg-piano
+[38;5;161m[    c-scripting-core] Creating script environments for rsg-policejob
+[38;5;73m[ citizen-server-impl] Started resource rsg-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for rsg-prison
+[38;5;73m[ citizen-server-impl] Started resource rsg-prison
+[38;5;161m[    c-scripting-core] Creating script environments for rsg-pvp
+[ citizen-server-impl] Started resource rsg-pvp
+[    c-scripting-core] Creating script environments for rsg-radialmenu
+[ citizen-server-impl] Started resource rsg-radialmenu
+[    c-scripting-core] Creating script environments for rsg-railroadjob
+[ citizen-server-impl] Started resource rsg-railroadjob
+[    c-scripting-core] Creating script environments for rsg-rental
+[ citizen-server-impl] Started resource rsg-rental
+[    c-scripting-core] Creating script environments for rsg-rhodesbankheist
+[ citizen-server-impl] Started resource rsg-rhodesbankheist
+[    c-scripting-core] Creating script environments for xsound
+[ citizen-server-impl] Started resource xsound
+[    c-scripting-core] Creating script environments for rsg-saloontender
+[ citizen-server-impl] Started resource rsg-saloontender
+[    c-scripting-core] Creating script environments for rsg-scoreboard
+[ citizen-server-impl] Started resource rsg-scoreboard
+[    c-scripting-core] Creating script environments for rsg-sellvendor
+[ citizen-server-impl] Started resource rsg-sellvendor
+[    c-scripting-core] Creating script environments for rsg-shops
+[ citizen-server-impl] Started resource rsg-shops
+[    c-scripting-core] Creating script environments for rsg-spawn
+[ citizen-server-impl] Started resource rsg-spawn
+[    c-scripting-core] Creating script environments for rsg-stdenisbankheist
+[ citizen-server-impl] Started resource rsg-stdenisbankheist
+[ citizen-server-impl] Started resource rsg-storage
+[    c-scripting-core] Creating script environments for rsg-townhall
+[ citizen-server-impl] Started resource rsg-townhall
+[    c-scripting-core] Creating script environments for rsg-trader
+[ citizen-server-impl] Started resource rsg-trader
+[    c-scripting-core] Creating script environments for rsg-trapperplus
+[ citizen-server-impl] Started resource rsg-trapperplus
+[    c-scripting-core] Creating script environments for rsg-trashsearch
+[ citizen-server-impl] Started resource rsg-trashsearch
+[    c-scripting-core] [97mCreating script environments for rsg-travel
+[ citizen-server-impl] Started resource rsg-travel
+[    c-scripting-core] Creating script environments for interact-sound
+[ citizen-server-impl] Started resource interact-sound
+[    c-scripting-core] Creating script environments for rsg-treasure
+[ citizen-server-impl] [0mStarted resource rsg-treasure
+[    c-scripting-core] Creating script environments for rsg-valentinebankheist
+[ citizen-server-impl] Started resource rsg-valentinebankheist
+[    c-scripting-core] Creating script environments for rsg-vehicles
+[ citizen-server-impl] Started resource rsg-vehicles
+[    c-scripting-core] Creating script environments for rsg-vendor
+[ citizen-server-impl] Started resource rsg-vendor
+[    c-scripting-core] Creating script environments for rsg-weapons
+[ citizen-server-impl] Started resource rsg-weapons
+[    c-scripting-core] Creating script environments for rsg-weaponsmith
+[ citizen-server-impl] Started resource rsg-weaponsmith
+[    c-scripting-core] Creating script environments for rsg-wholesaletrader
+[ citizen-server-impl] Started resource rsg-wholesaletrader
+[    c-scripting-core] Creating script environments for rsg_bedroll
+[ citizen-server-impl] Started resource rsg_bedroll
+[    c-scripting-core] Creating script environments for rsg_phonograph
+[ citizen-server-impl] Started resource rsg_phonograph
+[    c-scripting-core] Creating script environments for rsg_pinboard
+[ citizen-server-impl] Started resource rsg_pinboard
+[    c-scripting-core] Creating script environments for rsg_tent
+[ citizen-server-impl] Started resource rsg_tent
+[ citizen-server-impl] Started resource objectloader
+[ citizen-server-impl] Started resource casino
+[ citizen-server-impl] Started resource kh-doctorval
+[ citizen-server-impl] Started resource map-mexico
+[ citizen-server-impl] Started resource mexico_fort_col
+[ citizen-server-impl] Started resource redm-ipls
+[ citizen-server-impl] Started resource redm-ymaps
+[ citizen-server-impl] Started resource roulette
+[ citizen-server-impl] Started resource strawberry
+[ citizen-server-impl] Started resource valentinelights
+[ citizen-server-impl] Couldn't find resource ShadyBell.
+[    c-scripting-core] [0mCreating script environments for ak-blackjack
+[ citizen-server-impl] Started resource ak-blackjack
+[ citizen-server-impl] [0mStarted resource alentexas_blips
+[ citizen-server-impl] Started resource ballooncontrols
+[ citizen-server-impl] Started resource bcc-loadscreen
+[    c-scripting-core] Creating script environments for bcc-loadscreen-helper
+[ citizen-server-impl] Started resource bcc-loadscreen-helper
+[    c-scripting-core] Creating script environments for bottleshoot
+[    c-scripting-core] Failed to load script @DokusCore/[ Configs ]/[ Core ]/Core.lua.
+[    c-scripting-core] Failed to load script @DokusCore/[ Configs ]/[ Core ]/Modules.lua.
+[    c-scripting-core] Failed to load script @DokusCore/[ Core ]/[ System ]/[ Shared ]/CBSystem.lua.
+[ citizen-server-impl] Started resource bottleshoot
+[    c-scripting-core] Creating script environments for connectqueue
+[ script:connectqueue] QUEUE: [97m [connectqueue] Disabling hardcap 
+[ citizen-server-impl] Stopping resource hardcap
+[ citizen-server-impl] Started resource connectqueue
+[ citizen-server-impl] Started resource db-femped
+[    c-scripting-core] Creating script environments for hum_robbery
+[ citizen-server-impl] Started resource hum_robbery
+[    c-scripting-core] [0mCreating script environments for kz-witnesses
+[ citizen-server-impl] Started resource kz-witnesses
+[ citizen-server-impl] Started resource malik_logo
+[ citizen-server-impl] Started resource menuv
+[    c-scripting-core] Creating script environments for moped_doctor
+[ citizen-server-impl] Started resource moped_doctor
+[    c-scripting-core] Creating script environments for ox_lib
+[ citizen-server-impl] Started resource ox_lib
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] Started resource pma-voice
+[ citizen-server-impl] Started resource progressBars
+[ citizen-server-impl] Started resource progressbar
+[    c-scripting-core] Creating script environments for qr-cinema
+[ citizen-server-impl] Started resource qr-cinema
+[ citizen-server-impl] Started resource redemrp_notification
+[ citizen-server-impl] Started resource redm-interactions
+[    c-scripting-core] Creating script environments for rsg-givecash
+[ citizen-server-impl] Started resource rsg-givecash
+[    c-scripting-core] Creating script environments for rsg-stolenwagon
+[ citizen-server-impl] Started resource rsg-stolenwagon
+[ citizen-server-impl] Started resource safecracker
+[    c-scripting-core] [0mCreating script environments for sell_wild_horse
+[ citizen-server-impl] Started resource sell_wild_horse
+[ citizen-server-impl] Started resource uiprompt
+[    c-scripting-core] Creating script environments for spooner
+[ citizen-server-impl] Started resource spooner
+[    c-scripting-core] Creating script environments for syn_horseitems
+[ citizen-server-impl] Started resource syn_horseitems
+[ citizen-server-impl] Started resource syn_minigame
+[ citizen-server-impl] Started resource wcrp_baloon
+[    c-scripting-core] Creating script environments for weathersync
+[ citizen-server-impl] Started resource weathersync
+[    c-scripting-core] Creating script environments for woosh_pd
+[ citizen-server-impl] Started resource woosh_pd
+[    c-scripting-core] Creating script environments for Identity
+[ citizen-server-impl] Started resource Identity
+[    c-scripting-core] Creating script environments for addz_qr_roulette
+[ citizen-server-impl] Started resource addz_qr_roulette
+[    c-scripting-core] Creating script environments for borp_fightclub
+[ citizen-server-impl] Started resource borp_fightclub
+[    c-scripting-core] Creating script environments for cs_documents
+[ citizen-server-impl] Started resource cs_documents
+[    c-scripting-core] Creating script environments for lhr_azar
+[ citizen-server-impl] Started resource lhr_azar
+[    c-scripting-core] [0mCreating script environments for mb-GetRichPlayer
+[ citizen-server-impl] Started resource mb-GetRichPlayer
+[ citizen-server-impl] Started resource myprogressBars
+[    c-scripting-core] Creating script environments for qr-hanging
+[ citizen-server-impl] Started resource qr-hanging
+[    c-scripting-core] [0mCreating script environments for restartmessage
+[ citizen-server-impl] Started resource restartmessage
+[    c-scripting-core] [0mCreating script environments for ricx_mexico_hotel
+[ citizen-server-impl] Started resource ricx_mexico_hotel
+[    c-scripting-core] Creating script environments for rsg-Backpacks
+[ citizen-server-impl] Started resource rsg-Backpacks
+[    c-scripting-core] Creating script environments for rsg-carrot
+[ citizen-server-impl] Started resource rsg-carrot
+[    c-scripting-core] Creating script environments for rsg-cocaine
+[ citizen-server-impl] Started resource rsg-cocaine
+[    c-scripting-core] Creating script environments for rsg-cotton
+[ citizen-server-impl] Started resource rsg-cotton
+[    c-scripting-core] [0mCreating script environments for rsg-crafttable
+[ citizen-server-impl] Started resource rsg-crafttable
+[    c-scripting-core] Creating script environments for rsg-dimondrush
+[ citizen-server-impl] Started resource rsg-dimondrush
+[    c-scripting-core] Creating script environments for rsg-dirtyworks
+[ citizen-server-impl] Started resource rsg-dirtyworks
+[    c-scripting-core] Creating script environments for rsg-drugeffects
+[ citizen-server-impl] Started resource rsg-drugeffects
+[    c-scripting-core] Creating script environments for rsg-eggs
+[ citizen-server-impl] Started resource rsg-eggs
+[    c-scripting-core] Creating script environments for rsg-fence1
+[ citizen-server-impl] Started resource rsg-fence1
+[    c-scripting-core] Creating script environments for rsg-foodplant
+[ citizen-server-impl] Started resource rsg-foodplant
+[    c-scripting-core] Creating script environments for rsg-gravedigger
+[ citizen-server-impl] Started resource rsg-gravedigger
+[    c-scripting-core] Creating script environments for rsg-herbs
+[ citizen-server-impl] Started resource rsg-herbs
+[    c-scripting-core] Creating script environments for rsg-jobboard
+[ citizen-server-impl] Started resource rsg-jobboard
+[    c-scripting-core] [0mCreating script environments for rsg-lawtool
+[ citizen-server-impl] Started resource rsg-lawtool
+[ citizen-server-impl] Started resource rsg-lock
+[    c-scripting-core] Creating script environments for rsg-mdt
+[ citizen-server-impl] Started resource rsg-mdt
+[    c-scripting-core] [0mCreating script environments for rsg-oilsearch
+[ citizen-server-impl] Started resource rsg-oilsearch
+[    c-scripting-core] Creating script environments for rsg-potato
+[ citizen-server-impl] Started resource rsg-potato
+[    c-scripting-core] [0mCreating script environments for rsg-robnpc
+[ citizen-server-impl] Started resource rsg-robnpc
+[    c-scripting-core] Creating script environments for rsg-stove
+[ citizen-server-impl] Started resource rsg-stove
+[    c-scripting-core] Creating script environments for rsg-sugar
+[ citizen-server-impl] Started resource rsg-sugar
+[    c-scripting-core] Creating script environments for rsg-torch
+[ citizen-server-impl] Started resource rsg-torch
+[    c-scripting-core] Creating script environments for rsg_barrier
+[ citizen-server-impl] Started resource rsg_barrier
+[    c-scripting-core] Creating script environments for syn_dice
+[ citizen-server-impl] Started resource syn_dice
+[    c-scripting-core] Creating script environments for bcc-ranch
+[ citizen-server-impl] Started resource bcc-ranch
+[ citizen-server-impl] Stopping resource rsg-cooking
+[    c-scripting-core] Creating script environments for rsg-cooking
+[ citizen-server-impl] Started resource rsg-cooking
+[    script:bcc-utils] ✅Up to Date! [bcc-utils] (Current Version 1.0.3)
+[      script:rsg-mdt] ---------------------------------------------------------------------------
+[      script:rsg-mdt]  rsg-mdt -  Archive System for RSGCore
+[      script:rsg-mdt] ---------------------------------------------------------------------------
+[      script:rsg-mdt] 
+[      script:rsg-mdt] ✅ Up to Date! (Current Version 1.0)
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;154m[   script:mapmanager] Started map redm-map-one
+[ citizen-server-impl] Started resource redm-map-one
+[      script:oxmysql] Database server connection established!
+[38;5;42m[      script:oxmysql] An update is available for oxmysql (current version: 2.5.4)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.1
+[       script:ox_lib] An update is available for ox_lib (current version: 2.21.0)
+[       script:ox_lib] https://github.com/overextended/ox_lib/releases/tag/v3.6.1
+[38;5;73m[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://makemsalty-v6ej6x.users.cfx.re/
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] is loading into the server
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] was removed from the connecting queue because they timed out
+[ script:connectqueue] QUEUE: Xenonaxel[steam:110000105da47fa] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Xenonaxel[steam:110000105da47fa] is loading into the server
+[ script:connectqueue] QUEUE: Owen240[steam:110000107776e38] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: [97mOwen240[steam:110000107776e38] is loading into the server
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] Owen240 PLAYER SAVED!
+[     script:rsg-core] [rsg-multicharacter:LOG] Owen240 has succesfully loaded!
+[     script:rsg-core] [rsg-core:LOG] Owen240 PLAYER SAVED!
+[ script:connectqueue] QUEUE: Xenonaxel[steam:110000105da47fa] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Xenonaxel[steam:110000105da47fa] was placed 1/1 in queue
+[                 cmd] [0mAccess denied for command stop.
+[     script:rsg-core] [rsg-core:LOG] Owen240 PLAYER SAVED!
+[     script:rsg-core] [rsg-core:LOG] Owen240 PLAYER SAVED!
+[ script:connectqueue] QUEUE: Owen240[steam:110000107776e38] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Owen240[steam:110000107776e38] is loading into the server
+[38;5;109m[     script:rsg-core] [rsg-core:LOG] Owen240 PLAYER SAVED!
+[script:rsg-multichar] [rsg-core] Owen240 (Citizen ID: VSW51737) has succesfully loaded!
+[     script:rsg-core] [rsg-core:LOG] Owen240 PLAYER SAVED!
+[ script:connectqueue] QUEUE: Xenonaxel[steam:110000105da47fa] was placed 1/1 in queue
+[     script:rsg-core] [rsg-core:LOG] Owen240 PLAYER SAVED!
+[ script:connectqueue] QUEUE: Xenonaxel[steam:110000105da47fa] was removed from the connecting queue because they timed out
+[ script:connectqueue] QUEUE: xenon[license:6a66e80860481374a8e87fe0e1d2102ffeaeadd0] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: xenon[license:6a66e80860481374a8e87fe0e1d2102ffeaeadd0] is loading into the server
+[38;5;21m[   script:rsg-trader] Market Trader Cycle Complete
+[ script:connectqueue] QUEUE: xenon[license:6a66e80860481374a8e87fe0e1d2102ffeaeadd0] was removed from the connecting queue because they timed out
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: YT_MakemSalty[steam:110000146195b8c] is loading into the server
